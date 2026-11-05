@@ -2,12 +2,12 @@ about:
   description: "A terminal graph editor with infinite canvas"
   license: MIT
   homepage: 
-  head: c8c63e1
+  head: 0be1d54
   archived: false
-  latestVersion: "v0.8.0"
-  latestRelease: "v0.8.0"
+  latestVersion: "v0.10.0"
+  latestRelease: "v0.10.0"
   latestPrerelease: ""
-  collectedAt: 2026-11-04T07:29:09Z
+  collectedAt: 2026-11-05T07:56:46Z
 timeline:
   created: 2026-10-31
   lastCommit: 2026-11-04
@@ -18,78 +18,78 @@ popularity:
   star: 2
   watcher: 0
   fork: 0
-  release: 10
+  release: 12
   contributor: 1
   pullRequest: 0
   issue: 0
 language:
-  Rust: 1476868
+  Rust: 1527677
   Shell: 3427
-totalBytes: 1480295
+totalBytes: 1531104
 recent:
   last30d:
-    since: 2026-10-05
-    release: 10
+    since: 2026-10-06
+    release: 12
     mergedPR: 0
     openPR: 0
     closedIssue: 0
     openIssue: 0
-    commit: 68
+    commit: 86
   last60d:
-    since: 2026-09-05
-    release: 10
+    since: 2026-09-06
+    release: 12
     mergedPR: 0
     openPR: 0
     closedIssue: 0
     openIssue: 0
-    commit: 68
+    commit: 86
   last90d:
-    since: 2026-08-06
-    release: 10
+    since: 2026-08-07
+    release: 12
     mergedPR: 0
     openPR: 0
     closedIssue: 0
     openIssue: 0
-    commit: 68
+    commit: 86
   last180d:
-    since: 2026-05-08
-    release: 10
+    since: 2026-05-09
+    release: 12
     mergedPR: 0
     openPR: 0
     closedIssue: 0
     openIssue: 0
-    commit: 68
+    commit: 86
   last360d:
-    since: 2025-11-09
-    release: 10
+    since: 2025-11-10
+    release: 12
     mergedPR: 0
     openPR: 0
     closedIssue: 0
     openIssue: 0
-    commit: 68
+    commit: 86
   last720d:
-    since: 2024-11-14
-    release: 10
+    since: 2024-11-15
+    release: 12
     mergedPR: 0
     openPR: 0
     closedIssue: 0
     openIssue: 0
-    commit: 68
+    commit: 86
 total:
-  release: 10
+  release: 12
   mergedPR: 0
   openPR: 0
   closedIssue: 0
   openIssue: 0
-  commit: 68
+  commit: 86
 ---
 path: /home/runner/.x-repo/github.com/mixsoulgithub/graph-tui
-collectedAt: 2026-11-04T07:29:10Z
+collectedAt: 2026-11-05T07:56:48Z
 loc:
   Rust:
-    code: 34675
-    comments: 1250
-    blanks: 1655
+    code: 35743
+    comments: 1305
+    blanks: 1690
     files: 30
   Sh:
     code: 101
@@ -108,15 +108,15 @@ loc:
     files: 1
   Markdown:
     code: 0
-    comments: 1827
-    blanks: 391
+    comments: 1899
+    blanks: 405
     files: 18
 total:
-  code: 34982
-  comments: 4807
-  blanks: 2124
+  code: 36050
+  comments: 4992
+  blanks: 2174
   files: 51
 ---
 
 ---
-{"id":433608422,"author":{"login":"github-actions[bot]","id":41898282,"node_id":"MDM6Qm90NDE4OTgyODI=","gravatar_id":"","type":"Bot","user_view_type":"public","site_admin":false},"node_id":"RE_kwDOVeNBwM4Z2Fbm","tag_name":"v0.8.0","target_commitish":"main","name":"v0.8.0","draft":false,"immutable":false,"prerelease":false,"created_at":"2026-11-04T07:06:54Z","updated_at":"2026-11-04T07:09:54Z","published_at":"2026-11-04T07:07:10Z","assets":[{"id":708592718,"node_id":"RA_kwDOVeNBwM4qPERO","name":"graph-tui-aarch64-apple-darwin.sha256","label":"","uploader":{"login":"github-actions[bot]","id":41898282,"node_id":"MDM6Qm90NDE4OTgyODI=","gravatar_id":"","type":"Bot","user_view_type":"public","site_admin":false},"content_type":"application/octet-stream","state":"uploaded","size":104,"digest":"sha256:02ba7a99600a46600d41d4bda6f16eb99ec7849a54de3ce382cf0d5214174bb2","download_count":1,"created_at":"2026-11-04T07:08:24Z","updated_at":"2026-11-04T07:08:24Z"},{"id":708592716,"node_id":"RA_kwDOVeNBwM4qPERM","name":"graph-tui-aarch64-apple-darwin.tar.gz","label":"","uploader":{"login":"github-actions[bot]","id":41898282,"node_id":"MDM6Qm90NDE4OTgyODI=","gravatar_id":"","type":"Bot","user_view_type":"public","site_admin":false},"content_type":"application/x-gtar","state":"uploaded","size":921992,"digest":"sha256:36b298817e172c2b2006c2355d5c3f35d5fd3f9aaacf169ca55e683e4cf79d8b","download_count":1,"created_at":"2026-11-04T07:08:23Z","updated_at":"2026-11-04T07:08:24Z"},{"id":708593047,"node_id":"RA_kwDOVeNBwM4qPEWX","name":"graph-tui-x86_64-apple-darwin.sha256","label":"","uploader":{"login":"github-actions[bot]","id":41898282,"node_id":"MDM6Qm90NDE4OTgyODI=","gravatar_id":"","type":"Bot","user_view_type":"public","site_admin":false},"content_type":"application/octet-stream","state":"uploaded","size":103,"digest":"sha256:e4e2ea322e726b23ab7e440e0d7994825249fc49497f2775e7483c3214cccd13","download_count":1,"created_at":"2026-11-04T07:08:30Z","updated_at":"2026-11-04T07:08:30Z"},{"id":708593043,"node_id":"RA_kwDOVeNBwM4qPEWT","name":"graph-tui-x86_64-apple-darwin.tar.gz","label":"","uploader":{"login":"github-actions[bot]","id":41898282,"node_id":"MDM6Qm90NDE4OTgyODI=","gravatar_id":"","type":"Bot","user_view_type":"public","site_admin":false},"content_type":"application/x-gtar","state":"uploaded","size":1023756,"digest":"sha256:4477b19ebcd656670662c574d27838c4c1833012e068365e7270774bb4c755cb","download_count":1,"created_at":"2026-11-04T07:08:30Z","updated_at":"2026-11-04T07:08:30Z"},{"id":708594997,"node_id":"RA_kwDOVeNBwM4qPE01","name":"graph-tui-x86_64-pc-windows-msvc.sha256","label":"","uploader":{"login":"github-actions[bot]","id":41898282,"node_id":"MDM6Qm90NDE4OTgyODI=","gravatar_id":"","type":"Bot","user_view_type":"public","site_admin":false},"content_type":"application/octet-stream","state":"uploaded","size":103,"digest":"sha256:791956f0e54187475a686f633b0fa3a2767c3bffa719f0a6228462c18518e2d4","download_count":1,"created_at":"2026-11-04T07:09:18Z","updated_at":"2026-11-04T07:09:18Z"},{"id":708594995,"node_id":"RA_kwDOVeNBwM4qPE0z","name":"graph-tui-x86_64-pc-windows-msvc.zip","label":"","uploader":{"login":"github-actions[bot]","id":41898282,"node_id":"MDM6Qm90NDE4OTgyODI=","gravatar_id":"","type":"Bot","user_view_type":"public","site_admin":false},"content_type":"application/zip","state":"uploaded","size":996291,"digest":"sha256:ca337e80f2b9003243d5ac7e382c35a474595074aace288b50dcb58977e199a2","download_count":1,"created_at":"2026-11-04T07:09:18Z","updated_at":"2026-11-04T07:09:18Z"},{"id":708592278,"node_id":"RA_kwDOVeNBwM4qPEKW","name":"graph-tui-x86_64-unknown-linux-gnu.sha256","label":"","uploader":{"login":"github-actions[bot]","id":41898282,"node_id":"MDM6Qm90NDE4OTgyODI=","gravatar_id":"","type":"Bot","user_view_type":"public","site_admin":false},"content_type":"application/octet-stream","state":"uploaded","size":108,"digest":"sha256:50264f0fa1cfa965a5b5b4f26255321a941fe159446e6631bead4e1ff7ba0179","download_count":1,"created_at":"2026-11-04T07:08:10Z","updated_at":"2026-11-04T07:08:10Z"},{"id":708592280,"node_id":"RA_kwDOVeNBwM4qPEKY","name":"graph-tui-x86_64-unknown-linux-gnu.tar.gz","label":"","uploader":{"login":"github-actions[bot]","id":41898282,"node_id":"MDM6Qm90NDE4OTgyODI=","gravatar_id":"","type":"Bot","user_view_type":"public","site_admin":false},"content_type":"application/x-gtar","state":"uploaded","size":1040791,"digest":"sha256:b3556b5791184983699ae307c465fc1383e07a743a2c5c7e65052f1143189770","download_count":1,"created_at":"2026-11-04T07:08:10Z","updated_at":"2026-11-04T07:08:11Z"},{"id":708595532,"node_id":"RA_kwDOVeNBwM4qPE9M","name":"graph-tui-x86_64-unknown-linux-musl.sha256","label":"","uploader":{"login":"github-actions[bot]","id":41898282,"node_id":"MDM6Qm90NDE4OTgyODI=","gravatar_id":"","type":"Bot","user_view_type":"public","site_admin":false},"content_type":"application/octet-stream","state":"uploaded","size":109,"digest":"sha256:09017292ecc33e1e653153d6ab12d976c80484f226357f3225d92bfc1223d6d2","download_count":1,"created_at":"2026-11-04T07:09:31Z","updated_at":"2026-11-04T07:09:31Z"},{"id":708595530,"node_id":"RA_kwDOVeNBwM4qPE9K","name":"graph-tui-x86_64-unknown-linux-musl.tar.gz","label":"","uploader":{"login":"github-actions[bot]","id":41898282,"node_id":"MDM6Qm90NDE4OTgyODI=","gravatar_id":"","type":"Bot","user_view_type":"public","site_admin":false},"content_type":"application/x-gtar","state":"uploaded","size":1096666,"digest":"sha256:d281f7ba485cf2a94fa129d0c88c7628769d4498d811dea37528d04adaabca28","download_count":2,"created_at":"2026-11-04T07:09:31Z","updated_at":"2026-11-04T07:09:32Z"}],"body":"`.gtui` format 9 (reads v1..v9). Crate 0.8.0.\n\n\n### Changed\n\n- Keyboard cursor movement scrolls like nvim: the view stays put until the cursor reaches a\n  two-cell margin, then every further step scrolls the picture by exactly one cell **immediately**\n  while the cursor keeps its **screen line** (only its logical cell advances). Scrolling here is\n  not eased — an animation would move the cursor down one cell and then pull it back, which reads\n  as a jump. Jumps (search, `n` / `N`, click, jump history) stay animated, and all mouse gestures\n  are unchanged.\n\n### Fixed\n\n- A point-node edge no longer routes straight along an edge that is already drawn: two edges that\n  occupy the same cells collapse into one stroke, so the later edge looks invisible while the\n  earlier one's arrowhead sits on it, which makes the selected edge read as bidirectional. The L\n  now picks the other corner when the first one would duplicate an existing run of the same axis\n  (crossings still share a single cell, as before).\n- Edges keep their shape while the view moves: routing now looks at the whole document\n  (every node is an obstacle, and the \"this cell already has a stroke\" state is kept outside the\n  viewport too) instead of only at the visible cells, so panning and cursor scrolling are a pure\n  translation of the picture and a long edge whose node has left the screen still shows the part\n  that is on screen.\n\n- `Ctrl-o` / `Tab` (`Ctrl-i`) walk a proper jump list: besides search hits, `n` / `N` and mouse\n  clicks, every edit records its position — creating a box, editing text, changing a style — while\n  plain cursor moves do not. `Ctrl-o` from anywhere first notes where you are and then goes back to\n  the last place you worked.\n\n### Added\n\n- Six hand-placed joke graphs under `examples/fun/` (`owl`, `left-pad`, `git-graph`, `unix`,\n  `invaders`, `dynasties`), listed in `docs/examples.md`. They use `geo` layout, so the stored\n  coordinates are the picture; `invaders` is pure pixel art built from 46 single-cell text boxes,\n  and `dynasties` is a 44-regime top-down Chinese-dynasty DAG of `point` nodes with one-line CJK\n  labels placed around them: edges branch where regimes coexisted and merge where one power\n  reunified, with no edge labels. The\n  native example test walks `examples/fun/` as well.\n- `<|new box|>` inside the text prompt splits one box into several: the text before the marker\n  stays in the box, each following segment becomes a new box to its right (top aligned, one cell\n  apart, nudged right/down when the space is taken) that copies the source box style, colours,\n  fill, text alignment and layer. Edges and notes stay on the original box; the cursor does not\n  move and the whole split is one undo step. Only single plain boxes split: multi-selections, edge\n  notes and `point` nodes keep the marker as ordinary text, and so do `:text` and headless `text`.\n  `\\<|new box|>` is a literal.\n\n"}
+{"id":433944893,"author":{"login":"github-actions[bot]","id":41898282,"node_id":"MDM6Qm90NDE4OTgyODI=","gravatar_id":"","type":"Bot","user_view_type":"public","site_admin":false},"node_id":"RE_kwDOVeNBwM4Z3Xk9","tag_name":"v0.10.0","target_commitish":"main","name":"v0.10.0","draft":false,"immutable":false,"prerelease":false,"created_at":"2026-11-04T13:14:19Z","updated_at":"2026-11-04T13:17:16Z","published_at":"2026-11-04T13:14:37Z","assets":[{"id":709572573,"node_id":"RA_kwDOVeNBwM4qSzfd","name":"graph-tui-aarch64-apple-darwin.sha256","label":"","uploader":{"login":"github-actions[bot]","id":41898282,"node_id":"MDM6Qm90NDE4OTgyODI=","gravatar_id":"","type":"Bot","user_view_type":"public","site_admin":false},"content_type":"application/octet-stream","state":"uploaded","size":104,"digest":"sha256:e49a130ca3e9f1cf16e9c45e1447fc6b976491214fa166943e4106926fdbe1a5","download_count":1,"created_at":"2026-11-04T13:15:59Z","updated_at":"2026-11-04T13:15:59Z"},{"id":709572572,"node_id":"RA_kwDOVeNBwM4qSzfc","name":"graph-tui-aarch64-apple-darwin.tar.gz","label":"","uploader":{"login":"github-actions[bot]","id":41898282,"node_id":"MDM6Qm90NDE4OTgyODI=","gravatar_id":"","type":"Bot","user_view_type":"public","site_admin":false},"content_type":"application/x-gtar","state":"uploaded","size":938018,"digest":"sha256:a8f9765938e0c6766e205d300a05b192f85b07b413050b552edf747beeb8fa16","download_count":1,"created_at":"2026-11-04T13:15:59Z","updated_at":"2026-11-04T13:15:59Z"},{"id":709573515,"node_id":"RA_kwDOVeNBwM4qSzuL","name":"graph-tui-x86_64-apple-darwin.sha256","label":"","uploader":{"login":"github-actions[bot]","id":41898282,"node_id":"MDM6Qm90NDE4OTgyODI=","gravatar_id":"","type":"Bot","user_view_type":"public","site_admin":false},"content_type":"application/octet-stream","state":"uploaded","size":103,"digest":"sha256:d1914ede4e086cc25129b2040f86575e4ab4eeec3af71f905368bf5208c091de","download_count":1,"created_at":"2026-11-04T13:16:14Z","updated_at":"2026-11-04T13:16:14Z"},{"id":709573512,"node_id":"RA_kwDOVeNBwM4qSzuI","name":"graph-tui-x86_64-apple-darwin.tar.gz","label":"","uploader":{"login":"github-actions[bot]","id":41898282,"node_id":"MDM6Qm90NDE4OTgyODI=","gravatar_id":"","type":"Bot","user_view_type":"public","site_admin":false},"content_type":"application/x-gtar","state":"uploaded","size":1043779,"digest":"sha256:9198753bf6eb5876da1dcd8a4c66dc7f0216dd613d89c349ea1e5b63097673d1","download_count":1,"created_at":"2026-11-04T13:16:14Z","updated_at":"2026-11-04T13:16:15Z"},{"id":709573523,"node_id":"RA_kwDOVeNBwM4qSzuT","name":"graph-tui-x86_64-pc-windows-msvc.sha256","label":"","uploader":{"login":"github-actions[bot]","id":41898282,"node_id":"MDM6Qm90NDE4OTgyODI=","gravatar_id":"","type":"Bot","user_view_type":"public","site_admin":false},"content_type":"application/octet-stream","state":"uploaded","size":103,"digest":"sha256:f085ca1feab965af5a97c1b52d92dbabfd7e8dacdfcd501aabd1d6494d998f37","download_count":1,"created_at":"2026-11-04T13:16:14Z","updated_at":"2026-11-04T13:16:14Z"},{"id":709573517,"node_id":"RA_kwDOVeNBwM4qSzuN","name":"graph-tui-x86_64-pc-windows-msvc.zip","label":"","uploader":{"login":"github-actions[bot]","id":41898282,"node_id":"MDM6Qm90NDE4OTgyODI=","gravatar_id":"","type":"Bot","user_view_type":"public","site_admin":false},"content_type":"application/zip","state":"uploaded","size":1015178,"digest":"sha256:28f249ce13998691b18a4f3ba2214c790e281c63ff43c3ed634875170720705a","download_count":1,"created_at":"2026-11-04T13:16:14Z","updated_at":"2026-11-04T13:16:14Z"},{"id":709571369,"node_id":"RA_kwDOVeNBwM4qSzMp","name":"graph-tui-x86_64-unknown-linux-gnu.sha256","label":"","uploader":{"login":"github-actions[bot]","id":41898282,"node_id":"MDM6Qm90NDE4OTgyODI=","gravatar_id":"","type":"Bot","user_view_type":"public","site_admin":false},"content_type":"application/octet-stream","state":"uploaded","size":108,"digest":"sha256:d8fdc1972888fabd3386f761c34c8ea06c480e2f04e48220116b25febe99636a","download_count":1,"created_at":"2026-11-04T13:15:39Z","updated_at":"2026-11-04T13:15:39Z"},{"id":709571365,"node_id":"RA_kwDOVeNBwM4qSzMl","name":"graph-tui-x86_64-unknown-linux-gnu.tar.gz","label":"","uploader":{"login":"github-actions[bot]","id":41898282,"node_id":"MDM6Qm90NDE4OTgyODI=","gravatar_id":"","type":"Bot","user_view_type":"public","site_admin":false},"content_type":"application/x-gtar","state":"uploaded","size":1060268,"digest":"sha256:509af61fd2c4790a26b202f8ea12cd4dd2c93cd379c17ff32852961f38402c00","download_count":1,"created_at":"2026-11-04T13:15:39Z","updated_at":"2026-11-04T13:15:39Z"},{"id":709575208,"node_id":"RA_kwDOVeNBwM4qS0Io","name":"graph-tui-x86_64-unknown-linux-musl.sha256","label":"","uploader":{"login":"github-actions[bot]","id":41898282,"node_id":"MDM6Qm90NDE4OTgyODI=","gravatar_id":"","type":"Bot","user_view_type":"public","site_admin":false},"content_type":"application/octet-stream","state":"uploaded","size":109,"digest":"sha256:28ab3018f1f7bbc1ca48a36f8cba1b93296a170757750a6460f146e568ec9f16","download_count":2,"created_at":"2026-11-04T13:16:40Z","updated_at":"2026-11-04T13:16:40Z"},{"id":709575214,"node_id":"RA_kwDOVeNBwM4qS0Iu","name":"graph-tui-x86_64-unknown-linux-musl.tar.gz","label":"","uploader":{"login":"github-actions[bot]","id":41898282,"node_id":"MDM6Qm90NDE4OTgyODI=","gravatar_id":"","type":"Bot","user_view_type":"public","site_admin":false},"content_type":"application/x-gtar","state":"uploaded","size":1116458,"digest":"sha256:2bcddaba2573faa2ec77bcbb2f3424cb0a7ca113b1e7034b8a180490596f26f0","download_count":5,"created_at":"2026-11-04T13:16:40Z","updated_at":"2026-11-04T13:16:40Z"}],"body":"`.gtui` format 9 (reads v1..v9). Crate 0.10.0.\n\n\n### Added\n\n- Right-drag pans like middle drag or `Ctrl` + left drag, and a right **click** opens the action menu\n  when the button is released: a right press is ambiguous, so nothing happens until it moves. Under\n  two cells of movement it counts as a click and the menu opens at the pressed cell; two cells or\n  more pans the view and no menu appears (even if you drag back to where you started). With a menu\n  already open a right press still only cancels it.\n\n### Changed\n\n- The style menu (`s` / right click) remembers its **stack** per kind (box, edge, colour): every\n  level you walked through, and the item you stood on in each. Opening it again goes straight back\n  down the same path with the cursor on the item you picked, and `h` walks back to the exact item\n  you came from instead of resetting to the first one. So changing a colour twice is `s`, `l`,\n  `Enter`. The `edit text…` entry is gone from the box menu (use `i` / `t`); `delete` stays as the\n  last item.\n\n"}

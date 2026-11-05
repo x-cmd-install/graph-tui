@@ -1,0 +1,121 @@
+about:
+  description: "A terminal graph editor with infinite canvas"
+  license: MIT
+  homepage: 
+  head: 0be1d54
+  archived: false
+  latestVersion: "v0.10.0"
+  latestRelease: "v0.10.0"
+  latestPrerelease: ""
+  collectedAt: 2026-11-05T07:56:46Z
+timeline:
+  created: 2026-10-31
+  lastCommit: 2026-11-04
+  lastVersion: 2026-11-04
+  lastRelease: 2026-11-04
+  lastPrerelease: 
+popularity:
+  star: 2
+  watcher: 0
+  fork: 0
+  release: 12
+  contributor: 1
+  pullRequest: 0
+  issue: 0
+language:
+  Rust: 1527677
+  Shell: 3427
+totalBytes: 1531104
+recent:
+  last30d:
+    since: 2026-10-06
+    release: 12
+    mergedPR: 0
+    openPR: 0
+    closedIssue: 0
+    openIssue: 0
+    commit: 86
+  last60d:
+    since: 2026-09-06
+    release: 12
+    mergedPR: 0
+    openPR: 0
+    closedIssue: 0
+    openIssue: 0
+    commit: 86
+  last90d:
+    since: 2026-08-07
+    release: 12
+    mergedPR: 0
+    openPR: 0
+    closedIssue: 0
+    openIssue: 0
+    commit: 86
+  last180d:
+    since: 2026-05-09
+    release: 12
+    mergedPR: 0
+    openPR: 0
+    closedIssue: 0
+    openIssue: 0
+    commit: 86
+  last360d:
+    since: 2025-11-10
+    release: 12
+    mergedPR: 0
+    openPR: 0
+    closedIssue: 0
+    openIssue: 0
+    commit: 86
+  last720d:
+    since: 2024-11-15
+    release: 12
+    mergedPR: 0
+    openPR: 0
+    closedIssue: 0
+    openIssue: 0
+    commit: 86
+total:
+  release: 12
+  mergedPR: 0
+  openPR: 0
+  closedIssue: 0
+  openIssue: 0
+  commit: 86
+---
+path: /home/runner/.x-repo/github.com/mixsoulgithub/graph-tui
+collectedAt: 2026-11-05T07:56:48Z
+loc:
+  Rust:
+    code: 35743
+    comments: 1305
+    blanks: 1690
+    files: 30
+  Sh:
+    code: 101
+    comments: 8
+    blanks: 16
+    files: 1
+  Yaml:
+    code: 32
+    comments: 9
+    blanks: 6
+    files: 1
+  Toml:
+    code: 21
+    comments: 1
+    blanks: 2
+    files: 1
+  Markdown:
+    code: 0
+    comments: 1899
+    blanks: 405
+    files: 18
+total:
+  code: 36050
+  comments: 4992
+  blanks: 2174
+  files: 51
+---
+
+---
