@@ -1,0 +1,121 @@
+about:
+  description: "A terminal graph editor with infinite canvas"
+  license: MIT
+  homepage: 
+  head: 33fe66a
+  archived: false
+  latestVersion: "v0.11.0"
+  latestRelease: "v0.11.0"
+  latestPrerelease: ""
+  collectedAt: 2026-11-06T07:58:12Z
+timeline:
+  created: 2026-10-31
+  lastCommit: 2026-11-05
+  lastVersion: 2026-11-05
+  lastRelease: 2026-11-05
+  lastPrerelease: 
+popularity:
+  star: 2
+  watcher: 0
+  fork: 0
+  release: 13
+  contributor: 1
+  pullRequest: 0
+  issue: 0
+language:
+  Rust: 1646473
+  Shell: 3427
+totalBytes: 1649900
+recent:
+  last30d:
+    since: 2026-10-07
+    release: 13
+    mergedPR: 0
+    openPR: 0
+    closedIssue: 0
+    openIssue: 0
+    commit: 100
+  last60d:
+    since: 2026-09-07
+    release: 13
+    mergedPR: 0
+    openPR: 0
+    closedIssue: 0
+    openIssue: 0
+    commit: 100
+  last90d:
+    since: 2026-08-08
+    release: 13
+    mergedPR: 0
+    openPR: 0
+    closedIssue: 0
+    openIssue: 0
+    commit: 100
+  last180d:
+    since: 2026-05-10
+    release: 13
+    mergedPR: 0
+    openPR: 0
+    closedIssue: 0
+    openIssue: 0
+    commit: 100
+  last360d:
+    since: 2025-11-11
+    release: 13
+    mergedPR: 0
+    openPR: 0
+    closedIssue: 0
+    openIssue: 0
+    commit: 100
+  last720d:
+    since: 2024-11-16
+    release: 13
+    mergedPR: 0
+    openPR: 0
+    closedIssue: 0
+    openIssue: 0
+    commit: 100
+total:
+  release: 13
+  mergedPR: 0
+  openPR: 0
+  closedIssue: 0
+  openIssue: 0
+  commit: 100
+---
+path: /home/runner/.x-repo/github.com/mixsoulgithub/graph-tui
+collectedAt: 2026-11-06T07:58:13Z
+loc:
+  Rust:
+    code: 38466
+    comments: 1419
+    blanks: 1826
+    files: 33
+  Sh:
+    code: 101
+    comments: 8
+    blanks: 16
+    files: 1
+  Yaml:
+    code: 32
+    comments: 9
+    blanks: 6
+    files: 1
+  Toml:
+    code: 21
+    comments: 1
+    blanks: 2
+    files: 1
+  Markdown:
+    code: 0
+    comments: 2024
+    blanks: 422
+    files: 18
+total:
+  code: 38776
+  comments: 5410
+  blanks: 2340
+  files: 54
+---
+
+---

@@ -1,9 +1,9 @@
 {
-  "url": "https://api.github.com/repos/mixsoulgithub/graph-tui/releases/433944893",
-  "assets_url": "https://api.github.com/repos/mixsoulgithub/graph-tui/releases/433944893/assets",
-  "upload_url": "https://uploads.github.com/repos/mixsoulgithub/graph-tui/releases/433944893/assets{?name,label}",
-  "html_url": "https://github.com/mixsoulgithub/graph-tui/releases/tag/v0.10.0",
-  "id": 433944893,
+  "url": "https://api.github.com/repos/mixsoulgithub/graph-tui/releases/435146802",
+  "assets_url": "https://api.github.com/repos/mixsoulgithub/graph-tui/releases/435146802/assets",
+  "upload_url": "https://uploads.github.com/repos/mixsoulgithub/graph-tui/releases/435146802/assets{?name,label}",
+  "html_url": "https://github.com/mixsoulgithub/graph-tui/releases/tag/v0.11.0",
+  "id": 435146802,
   "author": {
     "login": "github-actions[bot]",
     "id": 41898282,
@@ -25,21 +25,21 @@
     "user_view_type": "public",
     "site_admin": false
   },
-  "node_id": "RE_kwDOVeNBwM4Z3Xk9",
-  "tag_name": "v0.10.0",
+  "node_id": "RE_kwDOVeNBwM4Z79Ay",
+  "tag_name": "v0.11.0",
   "target_commitish": "main",
-  "name": "v0.10.0",
+  "name": "v0.11.0",
   "draft": false,
   "immutable": false,
   "prerelease": false,
-  "created_at": "2026-11-04T13:14:19Z",
-  "updated_at": "2026-11-04T13:17:16Z",
-  "published_at": "2026-11-04T13:14:37Z",
+  "created_at": "2026-11-05T11:59:43Z",
+  "updated_at": "2026-11-05T12:03:15Z",
+  "published_at": "2026-11-05T12:00:02Z",
   "assets": [
     {
-      "url": "https://api.github.com/repos/mixsoulgithub/graph-tui/releases/assets/709572573",
-      "id": 709572573,
-      "node_id": "RA_kwDOVeNBwM4qSzfd",
+      "url": "https://api.github.com/repos/mixsoulgithub/graph-tui/releases/assets/713260506",
+      "id": 713260506,
+      "node_id": "RA_kwDOVeNBwM4qg33a",
       "name": "graph-tui-aarch64-apple-darwin.sha256",
       "label": "",
       "uploader": {
@@ -66,16 +66,16 @@
       "content_type": "application/octet-stream",
       "state": "uploaded",
       "size": 104,
-      "digest": "sha256:e49a130ca3e9f1cf16e9c45e1447fc6b976491214fa166943e4106926fdbe1a5",
+      "digest": "sha256:946fddccab28ad30547d09ba6c5f828382aba3d1b7b19173d919dd2a4b14b4aa",
       "download_count": 1,
-      "created_at": "2026-11-04T13:15:59Z",
-      "updated_at": "2026-11-04T13:15:59Z",
-      "browser_download_url": "https://github.com/mixsoulgithub/graph-tui/releases/download/v0.10.0/graph-tui-aarch64-apple-darwin.sha256"
+      "created_at": "2026-11-05T12:00:47Z",
+      "updated_at": "2026-11-05T12:00:47Z",
+      "browser_download_url": "https://github.com/mixsoulgithub/graph-tui/releases/download/v0.11.0/graph-tui-aarch64-apple-darwin.sha256"
     },
     {
-      "url": "https://api.github.com/repos/mixsoulgithub/graph-tui/releases/assets/709572572",
-      "id": 709572572,
-      "node_id": "RA_kwDOVeNBwM4qSzfc",
+      "url": "https://api.github.com/repos/mixsoulgithub/graph-tui/releases/assets/713260503",
+      "id": 713260503,
+      "node_id": "RA_kwDOVeNBwM4qg33X",
       "name": "graph-tui-aarch64-apple-darwin.tar.gz",
       "label": "",
       "uploader": {
@@ -101,17 +101,17 @@
       },
       "content_type": "application/x-gtar",
       "state": "uploaded",
-      "size": 938018,
-      "digest": "sha256:a8f9765938e0c6766e205d300a05b192f85b07b413050b552edf747beeb8fa16",
+      "size": 959863,
+      "digest": "sha256:eafb09b02b23c01245af32de857bd23b4a08bb800d1174173670da7c27a81ec0",
       "download_count": 1,
-      "created_at": "2026-11-04T13:15:59Z",
-      "updated_at": "2026-11-04T13:15:59Z",
-      "browser_download_url": "https://github.com/mixsoulgithub/graph-tui/releases/download/v0.10.0/graph-tui-aarch64-apple-darwin.tar.gz"
+      "created_at": "2026-11-05T12:00:47Z",
+      "updated_at": "2026-11-05T12:00:48Z",
+      "browser_download_url": "https://github.com/mixsoulgithub/graph-tui/releases/download/v0.11.0/graph-tui-aarch64-apple-darwin.tar.gz"
     },
     {
-      "url": "https://api.github.com/repos/mixsoulgithub/graph-tui/releases/assets/709573515",
-      "id": 709573515,
-      "node_id": "RA_kwDOVeNBwM4qSzuL",
+      "url": "https://api.github.com/repos/mixsoulgithub/graph-tui/releases/assets/713262216",
+      "id": 713262216,
+      "node_id": "RA_kwDOVeNBwM4qg4SI",
       "name": "graph-tui-x86_64-apple-darwin.sha256",
       "label": "",
       "uploader": {
@@ -138,16 +138,16 @@
       "content_type": "application/octet-stream",
       "state": "uploaded",
       "size": 103,
-      "digest": "sha256:d1914ede4e086cc25129b2040f86575e4ab4eeec3af71f905368bf5208c091de",
+      "digest": "sha256:0a92684c3fb930149e2599051d0da7d387b7f450ddcf30dfc3bf067c6d137368",
       "download_count": 1,
-      "created_at": "2026-11-04T13:16:14Z",
-      "updated_at": "2026-11-04T13:16:14Z",
-      "browser_download_url": "https://github.com/mixsoulgithub/graph-tui/releases/download/v0.10.0/graph-tui-x86_64-apple-darwin.sha256"
+      "created_at": "2026-11-05T12:01:24Z",
+      "updated_at": "2026-11-05T12:01:24Z",
+      "browser_download_url": "https://github.com/mixsoulgithub/graph-tui/releases/download/v0.11.0/graph-tui-x86_64-apple-darwin.sha256"
     },
     {
-      "url": "https://api.github.com/repos/mixsoulgithub/graph-tui/releases/assets/709573512",
-      "id": 709573512,
-      "node_id": "RA_kwDOVeNBwM4qSzuI",
+      "url": "https://api.github.com/repos/mixsoulgithub/graph-tui/releases/assets/713262210",
+      "id": 713262210,
+      "node_id": "RA_kwDOVeNBwM4qg4SC",
       "name": "graph-tui-x86_64-apple-darwin.tar.gz",
       "label": "",
       "uploader": {
@@ -173,17 +173,17 @@
       },
       "content_type": "application/x-gtar",
       "state": "uploaded",
-      "size": 1043779,
-      "digest": "sha256:9198753bf6eb5876da1dcd8a4c66dc7f0216dd613d89c349ea1e5b63097673d1",
+      "size": 1070275,
+      "digest": "sha256:92aea4dc9cf98599efa164c89c4343713eed12d9fc91cc3ea9eff162a865a01c",
       "download_count": 1,
-      "created_at": "2026-11-04T13:16:14Z",
-      "updated_at": "2026-11-04T13:16:15Z",
-      "browser_download_url": "https://github.com/mixsoulgithub/graph-tui/releases/download/v0.10.0/graph-tui-x86_64-apple-darwin.tar.gz"
+      "created_at": "2026-11-05T12:01:24Z",
+      "updated_at": "2026-11-05T12:01:24Z",
+      "browser_download_url": "https://github.com/mixsoulgithub/graph-tui/releases/download/v0.11.0/graph-tui-x86_64-apple-darwin.tar.gz"
     },
     {
-      "url": "https://api.github.com/repos/mixsoulgithub/graph-tui/releases/assets/709573523",
-      "id": 709573523,
-      "node_id": "RA_kwDOVeNBwM4qSzuT",
+      "url": "https://api.github.com/repos/mixsoulgithub/graph-tui/releases/assets/713263656",
+      "id": 713263656,
+      "node_id": "RA_kwDOVeNBwM4qg4oo",
       "name": "graph-tui-x86_64-pc-windows-msvc.sha256",
       "label": "",
       "uploader": {
@@ -210,16 +210,16 @@
       "content_type": "application/octet-stream",
       "state": "uploaded",
       "size": 103,
-      "digest": "sha256:f085ca1feab965af5a97c1b52d92dbabfd7e8dacdfcd501aabd1d6494d998f37",
+      "digest": "sha256:57bd3e3207d12142c8a173d1b62a63fb1c6b926f196be676e41c0387ad3d7575",
       "download_count": 1,
-      "created_at": "2026-11-04T13:16:14Z",
-      "updated_at": "2026-11-04T13:16:14Z",
-      "browser_download_url": "https://github.com/mixsoulgithub/graph-tui/releases/download/v0.10.0/graph-tui-x86_64-pc-windows-msvc.sha256"
+      "created_at": "2026-11-05T12:01:52Z",
+      "updated_at": "2026-11-05T12:01:52Z",
+      "browser_download_url": "https://github.com/mixsoulgithub/graph-tui/releases/download/v0.11.0/graph-tui-x86_64-pc-windows-msvc.sha256"
     },
     {
-      "url": "https://api.github.com/repos/mixsoulgithub/graph-tui/releases/assets/709573517",
-      "id": 709573517,
-      "node_id": "RA_kwDOVeNBwM4qSzuN",
+      "url": "https://api.github.com/repos/mixsoulgithub/graph-tui/releases/assets/713263655",
+      "id": 713263655,
+      "node_id": "RA_kwDOVeNBwM4qg4on",
       "name": "graph-tui-x86_64-pc-windows-msvc.zip",
       "label": "",
       "uploader": {
@@ -245,17 +245,17 @@
       },
       "content_type": "application/zip",
       "state": "uploaded",
-      "size": 1015178,
-      "digest": "sha256:28f249ce13998691b18a4f3ba2214c790e281c63ff43c3ed634875170720705a",
+      "size": 1045149,
+      "digest": "sha256:3c05a623c4438061bd5252c4316bd35bae99a10d06b32d94a701d9f9ce0ad04a",
       "download_count": 1,
-      "created_at": "2026-11-04T13:16:14Z",
-      "updated_at": "2026-11-04T13:16:14Z",
-      "browser_download_url": "https://github.com/mixsoulgithub/graph-tui/releases/download/v0.10.0/graph-tui-x86_64-pc-windows-msvc.zip"
+      "created_at": "2026-11-05T12:01:52Z",
+      "updated_at": "2026-11-05T12:01:52Z",
+      "browser_download_url": "https://github.com/mixsoulgithub/graph-tui/releases/download/v0.11.0/graph-tui-x86_64-pc-windows-msvc.zip"
     },
     {
-      "url": "https://api.github.com/repos/mixsoulgithub/graph-tui/releases/assets/709571369",
-      "id": 709571369,
-      "node_id": "RA_kwDOVeNBwM4qSzMp",
+      "url": "https://api.github.com/repos/mixsoulgithub/graph-tui/releases/assets/713260485",
+      "id": 713260485,
+      "node_id": "RA_kwDOVeNBwM4qg33F",
       "name": "graph-tui-x86_64-unknown-linux-gnu.sha256",
       "label": "",
       "uploader": {
@@ -282,16 +282,16 @@
       "content_type": "application/octet-stream",
       "state": "uploaded",
       "size": 108,
-      "digest": "sha256:d8fdc1972888fabd3386f761c34c8ea06c480e2f04e48220116b25febe99636a",
+      "digest": "sha256:d19baaf543ca9868b221c137ebd95fa57881af2c667c18baa4caefd476e07412",
       "download_count": 1,
-      "created_at": "2026-11-04T13:15:39Z",
-      "updated_at": "2026-11-04T13:15:39Z",
-      "browser_download_url": "https://github.com/mixsoulgithub/graph-tui/releases/download/v0.10.0/graph-tui-x86_64-unknown-linux-gnu.sha256"
+      "created_at": "2026-11-05T12:00:47Z",
+      "updated_at": "2026-11-05T12:00:47Z",
+      "browser_download_url": "https://github.com/mixsoulgithub/graph-tui/releases/download/v0.11.0/graph-tui-x86_64-unknown-linux-gnu.sha256"
     },
     {
-      "url": "https://api.github.com/repos/mixsoulgithub/graph-tui/releases/assets/709571365",
-      "id": 709571365,
-      "node_id": "RA_kwDOVeNBwM4qSzMl",
+      "url": "https://api.github.com/repos/mixsoulgithub/graph-tui/releases/assets/713260482",
+      "id": 713260482,
+      "node_id": "RA_kwDOVeNBwM4qg33C",
       "name": "graph-tui-x86_64-unknown-linux-gnu.tar.gz",
       "label": "",
       "uploader": {
@@ -317,17 +317,17 @@
       },
       "content_type": "application/x-gtar",
       "state": "uploaded",
-      "size": 1060268,
-      "digest": "sha256:509af61fd2c4790a26b202f8ea12cd4dd2c93cd379c17ff32852961f38402c00",
+      "size": 1088390,
+      "digest": "sha256:216c169411a5255bdaa2125f438e7729a7822c6d06220caa8c7a104312281caf",
       "download_count": 1,
-      "created_at": "2026-11-04T13:15:39Z",
-      "updated_at": "2026-11-04T13:15:39Z",
-      "browser_download_url": "https://github.com/mixsoulgithub/graph-tui/releases/download/v0.10.0/graph-tui-x86_64-unknown-linux-gnu.tar.gz"
+      "created_at": "2026-11-05T12:00:47Z",
+      "updated_at": "2026-11-05T12:00:47Z",
+      "browser_download_url": "https://github.com/mixsoulgithub/graph-tui/releases/download/v0.11.0/graph-tui-x86_64-unknown-linux-gnu.tar.gz"
     },
     {
-      "url": "https://api.github.com/repos/mixsoulgithub/graph-tui/releases/assets/709575208",
-      "id": 709575208,
-      "node_id": "RA_kwDOVeNBwM4qS0Io",
+      "url": "https://api.github.com/repos/mixsoulgithub/graph-tui/releases/assets/713267010",
+      "id": 713267010,
+      "node_id": "RA_kwDOVeNBwM4qg5dC",
       "name": "graph-tui-x86_64-unknown-linux-musl.sha256",
       "label": "",
       "uploader": {
@@ -354,16 +354,16 @@
       "content_type": "application/octet-stream",
       "state": "uploaded",
       "size": 109,
-      "digest": "sha256:28ab3018f1f7bbc1ca48a36f8cba1b93296a170757750a6460f146e568ec9f16",
+      "digest": "sha256:13eb5662c81060669568e499712b0697285e910fc084fe3ccf542b0e5d34db8e",
       "download_count": 2,
-      "created_at": "2026-11-04T13:16:40Z",
-      "updated_at": "2026-11-04T13:16:40Z",
-      "browser_download_url": "https://github.com/mixsoulgithub/graph-tui/releases/download/v0.10.0/graph-tui-x86_64-unknown-linux-musl.sha256"
+      "created_at": "2026-11-05T12:02:49Z",
+      "updated_at": "2026-11-05T12:02:50Z",
+      "browser_download_url": "https://github.com/mixsoulgithub/graph-tui/releases/download/v0.11.0/graph-tui-x86_64-unknown-linux-musl.sha256"
     },
     {
-      "url": "https://api.github.com/repos/mixsoulgithub/graph-tui/releases/assets/709575214",
-      "id": 709575214,
-      "node_id": "RA_kwDOVeNBwM4qS0Iu",
+      "url": "https://api.github.com/repos/mixsoulgithub/graph-tui/releases/assets/713267011",
+      "id": 713267011,
+      "node_id": "RA_kwDOVeNBwM4qg5dD",
       "name": "graph-tui-x86_64-unknown-linux-musl.tar.gz",
       "label": "",
       "uploader": {
@@ -389,15 +389,15 @@
       },
       "content_type": "application/x-gtar",
       "state": "uploaded",
-      "size": 1116458,
-      "digest": "sha256:2bcddaba2573faa2ec77bcbb2f3424cb0a7ca113b1e7034b8a180490596f26f0",
+      "size": 1144227,
+      "digest": "sha256:ac798a323f791907c0e75b52fdd4f2cefc56a281b1d8f693dbe6321a9173c9f1",
       "download_count": 5,
-      "created_at": "2026-11-04T13:16:40Z",
-      "updated_at": "2026-11-04T13:16:40Z",
-      "browser_download_url": "https://github.com/mixsoulgithub/graph-tui/releases/download/v0.10.0/graph-tui-x86_64-unknown-linux-musl.tar.gz"
+      "created_at": "2026-11-05T12:02:49Z",
+      "updated_at": "2026-11-05T12:02:50Z",
+      "browser_download_url": "https://github.com/mixsoulgithub/graph-tui/releases/download/v0.11.0/graph-tui-x86_64-unknown-linux-musl.tar.gz"
     }
   ],
-  "tarball_url": "https://api.github.com/repos/mixsoulgithub/graph-tui/tarball/v0.10.0",
-  "zipball_url": "https://api.github.com/repos/mixsoulgithub/graph-tui/zipball/v0.10.0",
-  "body": "`.gtui` format 9 (reads v1..v9). Crate 0.10.0.\n\n\n### Added\n\n- Right-drag pans like middle drag or `Ctrl` + left drag, and a right **click** opens the action menu\n  when the button is released: a right press is ambiguous, so nothing happens until it moves. Under\n  two cells of movement it counts as a click and the menu opens at the pressed cell; two cells or\n  more pans the view and no menu appears (even if you drag back to where you started). With a menu\n  already open a right press still only cancels it.\n\n### Changed\n\n- The style menu (`s` / right click) remembers its **stack** per kind (box, edge, colour): every\n  level you walked through, and the item you stood on in each. Opening it again goes straight back\n  down the same path with the cursor on the item you picked, and `h` walks back to the exact item\n  you came from instead of resetting to the first one. So changing a colour twice is `s`, `l`,\n  `Enter`. The `edit text…` entry is gone from the box menu (use `i` / `t`); `delete` stays as the\n  last item.\n\n"
+  "tarball_url": "https://api.github.com/repos/mixsoulgithub/graph-tui/tarball/v0.11.0",
+  "zipball_url": "https://api.github.com/repos/mixsoulgithub/graph-tui/zipball/v0.11.0",
+  "body": "`.gtui` format 10 (reads v1..v10). Crate 0.11.0.\n\n\n### Changed\n\n- SVG export draws border glyphs as vector `<path>` segments and centres every character in its\n  cell, on a 9x18 px cell with a 15 px font. Before, the font's advance (8.42 px at 14 px) did not\n  match the 8 px cell, so glyphs drifted about 0.4 px per column and box corners broke up.\n- The jump list is global instead of per document: entries remember the tab as well as the cell, so\n  `Ctrl-o` after `gf` (or any tab switch) goes back to the previous buffer and position, and\n  `Ctrl-i` (`Tab`) walks forward again. Closing a tab drops its entries and shifts the rest.\n\n### Added\n\n- `w` / `b` (`jump_next` / `jump_prev`) cast a ray from the cursor along the picture's main axis\n  (right when the drawing is wider than it is tall, down when it is taller) and move the cursor to\n  the first **box or edge** the ray reaches — a connector between two boxes counts as a stop. The\n  ray stops at the viewport edge, and a direction with nothing in it only prints a message.\n  `toggle_labels` moved from `b` to `B` to free the vim keys.\n- `i` edits the cursor box's text **in the box**: no prompt line, the frame grows as you type,\n  `Enter` inserts a newline, `Esc` commits (one undo step) and `Ctrl-C` drops the draft. The caret\n  starts on the character the cursor is on (the end when it is outside the text) and is the only\n  cursor on screen — the terminal cursor is moved onto the draft, nothing is painted twice.\n  Left/Right/Home/End move by character and line, `Alt` + arrow by word, `Up`/`Down` keep the\n  column. On an empty cell `i` creates the box first and starts editing it (an untouched new box is\n  dropped again on `Esc`). `t` still edits through the prompt (multi-selection and `<|new box|>`\n  splitting), and a `point` node keeps the prompt because a one-cell name has no room for a draft.\n- `Ctrl+G` (`edit_text_external`) edits the cursor box's text in `$VISUAL` / `$EDITOR` and writes\n  the result straight into the box when the editor exits, as one undo step; `<|new box|>` splitting\n  applies. The prompt's `Ctrl+G` also applies its result immediately now instead of leaving the\n  text in the prompt for a second `Enter`.\n- Custom URI schemes are configurable: any `scheme://…` link is looked up in a new `[links]`\n  section (`custom = my-reader`) and the raw target is appended as **one** argument, run blocking\n  with the terminal suspended. An unconfigured scheme only says `no handler for scheme …`. The\n  core carries no vendor-specific scheme any more (there is a source audit test for it), and\n  `--print-config` shows an empty `[links]` example.\n- Link targets are parsed into a handler chain (`self` -> URL -> custom scheme -> local -> unknown) and\n  can end in a **position**: `[x](./src/app.rs:10,4)` opens `$VISUAL` / `$EDITOR` at line 10,\n  column 4 (nvim/vim get `+call cursor(10,4)`, other editors get `+10` and a note that the column\n  was dropped), `[x](self:10,4)` jumps the current document's cursor to cell `10,4` and\n  `[x](./other.gtui:10,4)` switches to that tab (opening one if needed) and jumps. URLs never take\n  a position, `.dot` ignores it, custom schemes have no handler by default, and\n  every jump is recorded so `Ctrl-o` goes back across tabs. The terminal suspend/resume for a\n  positioned edit is the `Ctrl+G` path; a `true` / `false` / `:` `$EDITOR` stub now counts as\n  unset.\n- Each edge can pick its own arrowhead glyphs: `head` is `auto|ascii|arrows|triangles` in the\n  `.gtui` file (format v10), settable from the right-click menu's `arrowhead` submenu or\n  `:head triangles`, one undo step, previewed live like every other menu item. `auto` keeps\n  following the global `--arrow` / `[prefs] arrow`, a new edge inherits the last chosen one, and\n  files from v9 and older load with `auto`.\n- A link keeps its link inside italics (`*[label](target)*`); bold already did.\n- Text can carry links: `[label](target)` renders as the underlined `label`, the target takes no\n  width, and `Enter` or `gf` on it opens the target. `http(s)://` and `mailto:` go to the opener,\n  `file://` / `~/` / `./` / `../` / `/` are resolved to a local path (relative ones against the\n  document directory), and a local `.gtui` / `.dot` opens as a tab instead of starting another\n  graph-tui. The opener is `[prefs] opener`, then `$OPENER`, then `opener` / `xdg-open`; when it is\n  the `opener` helper it is asked with `--which` and the `edit` answer runs with the terminal\n  suspended, so `nvim` can take over. `Enter` is now `open_link` (`confirm_selection` keeps no\n  default key and can be rebound).\n\n"
 }
