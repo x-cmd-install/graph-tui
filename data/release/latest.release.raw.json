@@ -1,9 +1,9 @@
 {
-  "url": "https://api.github.com/repos/mixsoulgithub/graph-tui/releases/435146802",
-  "assets_url": "https://api.github.com/repos/mixsoulgithub/graph-tui/releases/435146802/assets",
-  "upload_url": "https://uploads.github.com/repos/mixsoulgithub/graph-tui/releases/435146802/assets{?name,label}",
-  "html_url": "https://github.com/mixsoulgithub/graph-tui/releases/tag/v0.11.0",
-  "id": 435146802,
+  "url": "https://api.github.com/repos/mixsoulgithub/graph-tui/releases/437308784",
+  "assets_url": "https://api.github.com/repos/mixsoulgithub/graph-tui/releases/437308784/assets",
+  "upload_url": "https://uploads.github.com/repos/mixsoulgithub/graph-tui/releases/437308784/assets{?name,label}",
+  "html_url": "https://github.com/mixsoulgithub/graph-tui/releases/tag/v0.13.0",
+  "id": 437308784,
   "author": {
     "login": "github-actions[bot]",
     "id": 41898282,
@@ -25,21 +25,21 @@
     "user_view_type": "public",
     "site_admin": false
   },
-  "node_id": "RE_kwDOVeNBwM4Z79Ay",
-  "tag_name": "v0.11.0",
+  "node_id": "RE_kwDOVeNBwM4aEM1w",
+  "tag_name": "v0.13.0",
   "target_commitish": "main",
-  "name": "v0.11.0",
+  "name": "v0.13.0",
   "draft": false,
   "immutable": false,
   "prerelease": false,
-  "created_at": "2026-11-05T11:59:43Z",
-  "updated_at": "2026-11-05T12:03:15Z",
-  "published_at": "2026-11-05T12:00:02Z",
+  "created_at": "2026-11-07T03:46:22Z",
+  "updated_at": "2026-11-07T03:49:37Z",
+  "published_at": "2026-11-07T03:46:39Z",
   "assets": [
     {
-      "url": "https://api.github.com/repos/mixsoulgithub/graph-tui/releases/assets/713260506",
-      "id": 713260506,
-      "node_id": "RA_kwDOVeNBwM4qg33a",
+      "url": "https://api.github.com/repos/mixsoulgithub/graph-tui/releases/assets/719515697",
+      "id": 719515697,
+      "node_id": "RA_kwDOVeNBwM4q4vAx",
       "name": "graph-tui-aarch64-apple-darwin.sha256",
       "label": "",
       "uploader": {
@@ -66,16 +66,16 @@
       "content_type": "application/octet-stream",
       "state": "uploaded",
       "size": 104,
-      "digest": "sha256:946fddccab28ad30547d09ba6c5f828382aba3d1b7b19173d919dd2a4b14b4aa",
+      "digest": "sha256:eb0e435ee9dc0bd59574b7815a73955af657c811c0db3e5d28205c794b54f6e1",
       "download_count": 1,
-      "created_at": "2026-11-05T12:00:47Z",
-      "updated_at": "2026-11-05T12:00:47Z",
-      "browser_download_url": "https://github.com/mixsoulgithub/graph-tui/releases/download/v0.11.0/graph-tui-aarch64-apple-darwin.sha256"
+      "created_at": "2026-11-07T03:48:12Z",
+      "updated_at": "2026-11-07T03:48:12Z",
+      "browser_download_url": "https://github.com/mixsoulgithub/graph-tui/releases/download/v0.13.0/graph-tui-aarch64-apple-darwin.sha256"
     },
     {
-      "url": "https://api.github.com/repos/mixsoulgithub/graph-tui/releases/assets/713260503",
-      "id": 713260503,
-      "node_id": "RA_kwDOVeNBwM4qg33X",
+      "url": "https://api.github.com/repos/mixsoulgithub/graph-tui/releases/assets/719515696",
+      "id": 719515696,
+      "node_id": "RA_kwDOVeNBwM4q4vAw",
       "name": "graph-tui-aarch64-apple-darwin.tar.gz",
       "label": "",
       "uploader": {
@@ -101,17 +101,17 @@
       },
       "content_type": "application/x-gtar",
       "state": "uploaded",
-      "size": 959863,
-      "digest": "sha256:eafb09b02b23c01245af32de857bd23b4a08bb800d1174173670da7c27a81ec0",
+      "size": 1017238,
+      "digest": "sha256:6f42b0dd23d1cfd31a2a0a61f2bbb237b50754d5a09a454136acc45e1ba346d4",
       "download_count": 1,
-      "created_at": "2026-11-05T12:00:47Z",
-      "updated_at": "2026-11-05T12:00:48Z",
-      "browser_download_url": "https://github.com/mixsoulgithub/graph-tui/releases/download/v0.11.0/graph-tui-aarch64-apple-darwin.tar.gz"
+      "created_at": "2026-11-07T03:48:12Z",
+      "updated_at": "2026-11-07T03:48:12Z",
+      "browser_download_url": "https://github.com/mixsoulgithub/graph-tui/releases/download/v0.13.0/graph-tui-aarch64-apple-darwin.tar.gz"
     },
     {
-      "url": "https://api.github.com/repos/mixsoulgithub/graph-tui/releases/assets/713262216",
-      "id": 713262216,
-      "node_id": "RA_kwDOVeNBwM4qg4SI",
+      "url": "https://api.github.com/repos/mixsoulgithub/graph-tui/releases/assets/719513886",
+      "id": 719513886,
+      "node_id": "RA_kwDOVeNBwM4q4uke",
       "name": "graph-tui-x86_64-apple-darwin.sha256",
       "label": "",
       "uploader": {
@@ -138,16 +138,16 @@
       "content_type": "application/octet-stream",
       "state": "uploaded",
       "size": 103,
-      "digest": "sha256:0a92684c3fb930149e2599051d0da7d387b7f450ddcf30dfc3bf067c6d137368",
+      "digest": "sha256:b82f45c440105e2e1643bf6653d575a70a9151e8110af931503f863472550311",
       "download_count": 1,
-      "created_at": "2026-11-05T12:01:24Z",
-      "updated_at": "2026-11-05T12:01:24Z",
-      "browser_download_url": "https://github.com/mixsoulgithub/graph-tui/releases/download/v0.11.0/graph-tui-x86_64-apple-darwin.sha256"
+      "created_at": "2026-11-07T03:47:32Z",
+      "updated_at": "2026-11-07T03:47:32Z",
+      "browser_download_url": "https://github.com/mixsoulgithub/graph-tui/releases/download/v0.13.0/graph-tui-x86_64-apple-darwin.sha256"
     },
     {
-      "url": "https://api.github.com/repos/mixsoulgithub/graph-tui/releases/assets/713262210",
-      "id": 713262210,
-      "node_id": "RA_kwDOVeNBwM4qg4SC",
+      "url": "https://api.github.com/repos/mixsoulgithub/graph-tui/releases/assets/719513881",
+      "id": 719513881,
+      "node_id": "RA_kwDOVeNBwM4q4ukZ",
       "name": "graph-tui-x86_64-apple-darwin.tar.gz",
       "label": "",
       "uploader": {
@@ -173,17 +173,17 @@
       },
       "content_type": "application/x-gtar",
       "state": "uploaded",
-      "size": 1070275,
-      "digest": "sha256:92aea4dc9cf98599efa164c89c4343713eed12d9fc91cc3ea9eff162a865a01c",
+      "size": 1131670,
+      "digest": "sha256:1c7386dc6fd2d8386169bb935118db71d3660889be7079a30c5e744aaf47d333",
       "download_count": 1,
-      "created_at": "2026-11-05T12:01:24Z",
-      "updated_at": "2026-11-05T12:01:24Z",
-      "browser_download_url": "https://github.com/mixsoulgithub/graph-tui/releases/download/v0.11.0/graph-tui-x86_64-apple-darwin.tar.gz"
+      "created_at": "2026-11-07T03:47:32Z",
+      "updated_at": "2026-11-07T03:47:32Z",
+      "browser_download_url": "https://github.com/mixsoulgithub/graph-tui/releases/download/v0.13.0/graph-tui-x86_64-apple-darwin.tar.gz"
     },
     {
-      "url": "https://api.github.com/repos/mixsoulgithub/graph-tui/releases/assets/713263656",
-      "id": 713263656,
-      "node_id": "RA_kwDOVeNBwM4qg4oo",
+      "url": "https://api.github.com/repos/mixsoulgithub/graph-tui/releases/assets/719516631",
+      "id": 719516631,
+      "node_id": "RA_kwDOVeNBwM4q4vPX",
       "name": "graph-tui-x86_64-pc-windows-msvc.sha256",
       "label": "",
       "uploader": {
@@ -210,16 +210,16 @@
       "content_type": "application/octet-stream",
       "state": "uploaded",
       "size": 103,
-      "digest": "sha256:57bd3e3207d12142c8a173d1b62a63fb1c6b926f196be676e41c0387ad3d7575",
+      "digest": "sha256:7dfac4b6dc38351b1c67c470488de613d1da31ec9fe09a39984f19a3536d7591",
       "download_count": 1,
-      "created_at": "2026-11-05T12:01:52Z",
-      "updated_at": "2026-11-05T12:01:52Z",
-      "browser_download_url": "https://github.com/mixsoulgithub/graph-tui/releases/download/v0.11.0/graph-tui-x86_64-pc-windows-msvc.sha256"
+      "created_at": "2026-11-07T03:48:41Z",
+      "updated_at": "2026-11-07T03:48:42Z",
+      "browser_download_url": "https://github.com/mixsoulgithub/graph-tui/releases/download/v0.13.0/graph-tui-x86_64-pc-windows-msvc.sha256"
     },
     {
-      "url": "https://api.github.com/repos/mixsoulgithub/graph-tui/releases/assets/713263655",
-      "id": 713263655,
-      "node_id": "RA_kwDOVeNBwM4qg4on",
+      "url": "https://api.github.com/repos/mixsoulgithub/graph-tui/releases/assets/719516630",
+      "id": 719516630,
+      "node_id": "RA_kwDOVeNBwM4q4vPW",
       "name": "graph-tui-x86_64-pc-windows-msvc.zip",
       "label": "",
       "uploader": {
@@ -245,17 +245,17 @@
       },
       "content_type": "application/zip",
       "state": "uploaded",
-      "size": 1045149,
-      "digest": "sha256:3c05a623c4438061bd5252c4316bd35bae99a10d06b32d94a701d9f9ce0ad04a",
+      "size": 1111114,
+      "digest": "sha256:85cdb0a5908408c33f7814d2cbee96d661a6dacad40cbb324fffba0fe6e2c1c1",
       "download_count": 1,
-      "created_at": "2026-11-05T12:01:52Z",
-      "updated_at": "2026-11-05T12:01:52Z",
-      "browser_download_url": "https://github.com/mixsoulgithub/graph-tui/releases/download/v0.11.0/graph-tui-x86_64-pc-windows-msvc.zip"
+      "created_at": "2026-11-07T03:48:41Z",
+      "updated_at": "2026-11-07T03:48:42Z",
+      "browser_download_url": "https://github.com/mixsoulgithub/graph-tui/releases/download/v0.13.0/graph-tui-x86_64-pc-windows-msvc.zip"
     },
     {
-      "url": "https://api.github.com/repos/mixsoulgithub/graph-tui/releases/assets/713260485",
-      "id": 713260485,
-      "node_id": "RA_kwDOVeNBwM4qg33F",
+      "url": "https://api.github.com/repos/mixsoulgithub/graph-tui/releases/assets/719514137",
+      "id": 719514137,
+      "node_id": "RA_kwDOVeNBwM4q4uoZ",
       "name": "graph-tui-x86_64-unknown-linux-gnu.sha256",
       "label": "",
       "uploader": {
@@ -282,16 +282,16 @@
       "content_type": "application/octet-stream",
       "state": "uploaded",
       "size": 108,
-      "digest": "sha256:d19baaf543ca9868b221c137ebd95fa57881af2c667c18baa4caefd476e07412",
+      "digest": "sha256:5ea016d4282364af1f274a7a5709d907d41f27459ef5f38fa9c0c03206b2bff8",
       "download_count": 1,
-      "created_at": "2026-11-05T12:00:47Z",
-      "updated_at": "2026-11-05T12:00:47Z",
-      "browser_download_url": "https://github.com/mixsoulgithub/graph-tui/releases/download/v0.11.0/graph-tui-x86_64-unknown-linux-gnu.sha256"
+      "created_at": "2026-11-07T03:47:36Z",
+      "updated_at": "2026-11-07T03:47:36Z",
+      "browser_download_url": "https://github.com/mixsoulgithub/graph-tui/releases/download/v0.13.0/graph-tui-x86_64-unknown-linux-gnu.sha256"
     },
     {
-      "url": "https://api.github.com/repos/mixsoulgithub/graph-tui/releases/assets/713260482",
-      "id": 713260482,
-      "node_id": "RA_kwDOVeNBwM4qg33C",
+      "url": "https://api.github.com/repos/mixsoulgithub/graph-tui/releases/assets/719514136",
+      "id": 719514136,
+      "node_id": "RA_kwDOVeNBwM4q4uoY",
       "name": "graph-tui-x86_64-unknown-linux-gnu.tar.gz",
       "label": "",
       "uploader": {
@@ -317,17 +317,17 @@
       },
       "content_type": "application/x-gtar",
       "state": "uploaded",
-      "size": 1088390,
-      "digest": "sha256:216c169411a5255bdaa2125f438e7729a7822c6d06220caa8c7a104312281caf",
+      "size": 1152747,
+      "digest": "sha256:c81f3ccd7d384aab22ef77b8a016a597cd4665c2eedb628c3c5686db67869b9e",
       "download_count": 1,
-      "created_at": "2026-11-05T12:00:47Z",
-      "updated_at": "2026-11-05T12:00:47Z",
-      "browser_download_url": "https://github.com/mixsoulgithub/graph-tui/releases/download/v0.11.0/graph-tui-x86_64-unknown-linux-gnu.tar.gz"
+      "created_at": "2026-11-07T03:47:36Z",
+      "updated_at": "2026-11-07T03:47:37Z",
+      "browser_download_url": "https://github.com/mixsoulgithub/graph-tui/releases/download/v0.13.0/graph-tui-x86_64-unknown-linux-gnu.tar.gz"
     },
     {
-      "url": "https://api.github.com/repos/mixsoulgithub/graph-tui/releases/assets/713267010",
-      "id": 713267010,
-      "node_id": "RA_kwDOVeNBwM4qg5dC",
+      "url": "https://api.github.com/repos/mixsoulgithub/graph-tui/releases/assets/719517674",
+      "id": 719517674,
+      "node_id": "RA_kwDOVeNBwM4q4vfq",
       "name": "graph-tui-x86_64-unknown-linux-musl.sha256",
       "label": "",
       "uploader": {
@@ -354,16 +354,16 @@
       "content_type": "application/octet-stream",
       "state": "uploaded",
       "size": 109,
-      "digest": "sha256:13eb5662c81060669568e499712b0697285e910fc084fe3ccf542b0e5d34db8e",
-      "download_count": 2,
-      "created_at": "2026-11-05T12:02:49Z",
-      "updated_at": "2026-11-05T12:02:50Z",
-      "browser_download_url": "https://github.com/mixsoulgithub/graph-tui/releases/download/v0.11.0/graph-tui-x86_64-unknown-linux-musl.sha256"
+      "digest": "sha256:2c6bc078904bc69753afe8d0f0770b796e41f2c10418e7729ab1ad0714b7069c",
+      "download_count": 1,
+      "created_at": "2026-11-07T03:49:08Z",
+      "updated_at": "2026-11-07T03:49:08Z",
+      "browser_download_url": "https://github.com/mixsoulgithub/graph-tui/releases/download/v0.13.0/graph-tui-x86_64-unknown-linux-musl.sha256"
     },
     {
-      "url": "https://api.github.com/repos/mixsoulgithub/graph-tui/releases/assets/713267011",
-      "id": 713267011,
-      "node_id": "RA_kwDOVeNBwM4qg5dD",
+      "url": "https://api.github.com/repos/mixsoulgithub/graph-tui/releases/assets/719517676",
+      "id": 719517676,
+      "node_id": "RA_kwDOVeNBwM4q4vfs",
       "name": "graph-tui-x86_64-unknown-linux-musl.tar.gz",
       "label": "",
       "uploader": {
@@ -389,15 +389,15 @@
       },
       "content_type": "application/x-gtar",
       "state": "uploaded",
-      "size": 1144227,
-      "digest": "sha256:ac798a323f791907c0e75b52fdd4f2cefc56a281b1d8f693dbe6321a9173c9f1",
-      "download_count": 5,
-      "created_at": "2026-11-05T12:02:49Z",
-      "updated_at": "2026-11-05T12:02:50Z",
-      "browser_download_url": "https://github.com/mixsoulgithub/graph-tui/releases/download/v0.11.0/graph-tui-x86_64-unknown-linux-musl.tar.gz"
+      "size": 1208651,
+      "digest": "sha256:1a1af5dc85bca1b0050014a64143d88ef4a5ca545418bdb0ce897eddf172676a",
+      "download_count": 2,
+      "created_at": "2026-11-07T03:49:08Z",
+      "updated_at": "2026-11-07T03:49:08Z",
+      "browser_download_url": "https://github.com/mixsoulgithub/graph-tui/releases/download/v0.13.0/graph-tui-x86_64-unknown-linux-musl.tar.gz"
     }
   ],
-  "tarball_url": "https://api.github.com/repos/mixsoulgithub/graph-tui/tarball/v0.11.0",
-  "zipball_url": "https://api.github.com/repos/mixsoulgithub/graph-tui/zipball/v0.11.0",
-  "body": "`.gtui` format 10 (reads v1..v10). Crate 0.11.0.\n\n\n### Changed\n\n- SVG export draws border glyphs as vector `<path>` segments and centres every character in its\n  cell, on a 9x18 px cell with a 15 px font. Before, the font's advance (8.42 px at 14 px) did not\n  match the 8 px cell, so glyphs drifted about 0.4 px per column and box corners broke up.\n- The jump list is global instead of per document: entries remember the tab as well as the cell, so\n  `Ctrl-o` after `gf` (or any tab switch) goes back to the previous buffer and position, and\n  `Ctrl-i` (`Tab`) walks forward again. Closing a tab drops its entries and shifts the rest.\n\n### Added\n\n- `w` / `b` (`jump_next` / `jump_prev`) cast a ray from the cursor along the picture's main axis\n  (right when the drawing is wider than it is tall, down when it is taller) and move the cursor to\n  the first **box or edge** the ray reaches — a connector between two boxes counts as a stop. The\n  ray stops at the viewport edge, and a direction with nothing in it only prints a message.\n  `toggle_labels` moved from `b` to `B` to free the vim keys.\n- `i` edits the cursor box's text **in the box**: no prompt line, the frame grows as you type,\n  `Enter` inserts a newline, `Esc` commits (one undo step) and `Ctrl-C` drops the draft. The caret\n  starts on the character the cursor is on (the end when it is outside the text) and is the only\n  cursor on screen — the terminal cursor is moved onto the draft, nothing is painted twice.\n  Left/Right/Home/End move by character and line, `Alt` + arrow by word, `Up`/`Down` keep the\n  column. On an empty cell `i` creates the box first and starts editing it (an untouched new box is\n  dropped again on `Esc`). `t` still edits through the prompt (multi-selection and `<|new box|>`\n  splitting), and a `point` node keeps the prompt because a one-cell name has no room for a draft.\n- `Ctrl+G` (`edit_text_external`) edits the cursor box's text in `$VISUAL` / `$EDITOR` and writes\n  the result straight into the box when the editor exits, as one undo step; `<|new box|>` splitting\n  applies. The prompt's `Ctrl+G` also applies its result immediately now instead of leaving the\n  text in the prompt for a second `Enter`.\n- Custom URI schemes are configurable: any `scheme://…` link is looked up in a new `[links]`\n  section (`custom = my-reader`) and the raw target is appended as **one** argument, run blocking\n  with the terminal suspended. An unconfigured scheme only says `no handler for scheme …`. The\n  core carries no vendor-specific scheme any more (there is a source audit test for it), and\n  `--print-config` shows an empty `[links]` example.\n- Link targets are parsed into a handler chain (`self` -> URL -> custom scheme -> local -> unknown) and\n  can end in a **position**: `[x](./src/app.rs:10,4)` opens `$VISUAL` / `$EDITOR` at line 10,\n  column 4 (nvim/vim get `+call cursor(10,4)`, other editors get `+10` and a note that the column\n  was dropped), `[x](self:10,4)` jumps the current document's cursor to cell `10,4` and\n  `[x](./other.gtui:10,4)` switches to that tab (opening one if needed) and jumps. URLs never take\n  a position, `.dot` ignores it, custom schemes have no handler by default, and\n  every jump is recorded so `Ctrl-o` goes back across tabs. The terminal suspend/resume for a\n  positioned edit is the `Ctrl+G` path; a `true` / `false` / `:` `$EDITOR` stub now counts as\n  unset.\n- Each edge can pick its own arrowhead glyphs: `head` is `auto|ascii|arrows|triangles` in the\n  `.gtui` file (format v10), settable from the right-click menu's `arrowhead` submenu or\n  `:head triangles`, one undo step, previewed live like every other menu item. `auto` keeps\n  following the global `--arrow` / `[prefs] arrow`, a new edge inherits the last chosen one, and\n  files from v9 and older load with `auto`.\n- A link keeps its link inside italics (`*[label](target)*`); bold already did.\n- Text can carry links: `[label](target)` renders as the underlined `label`, the target takes no\n  width, and `Enter` or `gf` on it opens the target. `http(s)://` and `mailto:` go to the opener,\n  `file://` / `~/` / `./` / `../` / `/` are resolved to a local path (relative ones against the\n  document directory), and a local `.gtui` / `.dot` opens as a tab instead of starting another\n  graph-tui. The opener is `[prefs] opener`, then `$OPENER`, then `opener` / `xdg-open`; when it is\n  the `opener` helper it is asked with `--which` and the `edit` answer runs with the terminal\n  suspended, so `nvim` can take over. `Enter` is now `open_link` (`confirm_selection` keeps no\n  default key and can be rebound).\n\n"
+  "tarball_url": "https://api.github.com/repos/mixsoulgithub/graph-tui/tarball/v0.13.0",
+  "zipball_url": "https://api.github.com/repos/mixsoulgithub/graph-tui/zipball/v0.13.0",
+  "body": "`.gtui` format 10 (reads v1..v10). Crate 0.13.0.\n\n\n### Changed\n\n- In neighbour view (`E`) the selected edge pulses again: the overlay that lifts the highlighted\n  path above boxes and text used to repaint it in the plain edge colour, which wiped the pulse.\n- In neighbour view (`E`) the cursor only picks edges of the highlighted node: pointing at an edge\n  that merely passes through the same cell (or belongs to a neighbour) no longer selects it, so when\n  several edges share a cell the ones from the centre win. Clicking such an edge says \"E: only edges\n  of the centre\" instead of silently selecting it.\n- Neighbour view (`E`) now keeps the highlighted path visible: the lit edges are drawn once more\n  above boxes, text and labels, so a highlighted edge is not cut by the boxes it passes. Ports on a\n  highlighted neighbour keep the colour of their own edge and the neighbour's other ports (arrows\n  and `T`s of edges that are not lit) are dimmed, so `dbus.socket`'s 16 red arrowheads no longer\n  compete with the one blue one.\n- A `T` junction on a box border now uses the colour of the edge it belongs to, the same as the\n  arrowhead, instead of the box's border colour. The glyph is unchanged.\n- An edge that is short *relative to its boxes* (its length is no larger than the biggest box side,\n  both ends on `auto`) now picks its two sides from all 16 pairs, preferring ones that can run\n  straight. This only touches small boxes standing next to big ones (`systemd.gtui` moves one edge);\n  everything else keeps the ordinary rule, and explicit `from_side` / `to_side` opts out.\n- Ports are allocated by the **border's** capacity again, not by the text size: an 18-row box with a\n  one-line label has 16 cells down each side, so a side no longer collapses to a single anchor when\n  its label happens to be one line. A side with fewer than two cells that cannot hold its group\n  moves the whole group to a side that has room and also faces the other box; the surplus endpoints\n  otherwise move individually, choosing the side closest to the target instead of the next one\n  clockwise. This fixes `systemd.gtui` at 1:1: `basic.target` keeps 16 arrowheads down its full\n  right edge (instead of one plus four `v` on top, eight `^` on the bottom and a wrap around the\n  left) and `dbus.socket` the same on its left.\n- `layered` only forces a vertical side for adjacent ranks when the two boxes do not overlap\n  vertically; two boxes side by side that merely start at a different row keep their left/right\n  edges.\n- The last-resort route no longer draws a line that stops halfway: when the straight fallback is\n  blocked the edge draws nothing instead of leaving a dangling stroke.\n\n- When a side runs out of cells the endpoint that moves is now chosen by gain instead of by edge\n  order: plain lines move before arrowheads, and only the surplus count moves (a side with 16 cells\n  and 17 ends moves exactly one). A one-row `none` node keeps its single-cell sides and shares them\n  between plain lines rather than being pushed to the top or bottom.\n\n### Changed\n\n- Port and arrow ownership is now an explicit role model instead of \"whichever edge\n  last wrote the cell\": a cell's port role is either `Arrow` or `Line` (never both),\n  an arrowhead keeps a set of owning edges (`arrow_owners`) plus, per edge, the\n  strokes / ports / arrows it actually owns. Selection, the E-mode overlay and the\n  arrow colour no longer consult `edge_cells` (which stays as the hit-testing union).\n- Consequences:\n  - A plain connection end no longer takes a cell that an arrow end owns, so\n    selecting a forward edge (`dbus.service -> dbus.socket`) no longer shows an\n    arrowhead at its source (`<->`).\n  - Only arrows the selected edge owns are highlighted; foreign arrowheads along\n    the path (and at the picked edge's ports) keep their own colour.\n  - An arrowhead shared by several edges is highlighted for every owner.\n  - Routing treats other edges' ports/arrowheads as a soft obstacle (`+100`), so\n    lines prefer to route around them instead of crossing them.\n- Routes on `examples/real/systemd.gtui` shift (same arrow count and directions,\n  three more rows of detours); the dump is stable across runs.\n\n### Fixed\n\n- A text node (`style=none`) endpoint no longer loses the corner where its edge turns: the cell just\n  outside the port gets the hidden direction bit pointing back at the port, so the route draws\n  `╭ ─ ╮ ╰ ╯` instead of a bare `─`/`│`. The port cell itself (the text) is still never drawn on, and\n  a straight run stays straight. On `examples/fun/hongloumeng.gtui` three junctions gain their\n  corner (`╭───╯`, `贾蓉╮`, `╰秦可卿`); `systemd.gtui` is unchanged.\n\n- The cells a selected edge's ports open onto are now taken from what was actually drawn\n  (`Canvas::edge_out_cells`, recorded in `edge_full` / `path` / `edge_loop`), not from the port plan.\n  When a side is full the plan has no entry for that end and the drawing falls back to `pick_port`,\n  so a foreign arrowhead sitting on that cell was not suppressed: selecting\n  `dbus.service -> basic.target` still showed `multi-user.target -> dbus.service`'s `>` at its\n  source. It is hidden now, while the selected edge's own target arrowhead stays. The set is\n  assigned once after every layer is drawn instead of being cleared per layer.\n\n- A shared arrowhead now takes the colour of the edge that is currently active instead of the\n  colour of the first edge that claimed the cell: the picked edge wins, then the single lit edge in\n  neighbour view, then the first (visible) owner. In neighbour view on `fwupd.service`, the arrow\n  into `dbus.service` is drawn in the `fwupd` edge's colour rather than the first owner's red; when\n  several owners are lit at once the visible colour is kept (one cell, one colour). Applies to\n  arrows between text nodes, to arrows embedded in a box border, and leaves the ordinary picture\n  unchanged.\n\n- A port cell's **outside** cell now carries the same role as the port (`Arrow` / `Line`), so a\n  plain connection never starts on a cell an arrowhead is drawn in. `Canvas::outside_arrow` refuses\n  to draw an arrow on a cell that a line end already starts from, and the E-mode overlay no longer\n  repaints an arrow that `blit` hid for the selected edge. Selecting a forward edge\n  (`dbus.service -> dbus.socket`) therefore no longer shows a foreign `>` at its source, in either\n  state; the ordinary (unselected) picture is unchanged.\n\n- A one-line text target (`dbus.service` in `systemd.gtui`) has exactly one arrow cell on each of\n  its two usable sides, but four edges point into it. Once a side's arrow cell was taken, the port\n  planner had nothing left and returned no port, so the route reached the box without an arrowhead\n  (the `fwupd` and `wpa_supplicant` arrows were simply absent). Arrow ends now share the cell on\n  their side when nothing else is free: the glyph is drawn once, its ink and owner stay with the\n  first edge, and every sharing edge counts the cell as its own, so selecting any of them blinks it.\n- The E-mode overlay used to repaint an edge's line glyph over an arrowhead belonging to another lit\n  edge of the same centre, hiding the shared arrowhead again. Arrowheads stay on top there too.\n\n- The selected edge is now painted over every other edge, including the other edges that E mode\n  raises for the same centre. Before, in E mode the last drawn lit edge won the shared cells, so a\n  selected edge was interrupted exactly where a neighbour edge ran along the same row.\n\n- A port whose exit cell lied inside another box is no longer used: the edge (and its arrowhead)\n  used to be painted under that box, so the arrow simply was not there. The planner now switches\n  that endpoint to another side that has a way out (and overflow never lands on a covered cell).\n  On `systemd.gtui` `fwupd.service` and `wpa_supplicant.service` now enter `dbus.service` from the\n  right and the left with visible arrowheads (`dbus.service<` / `>dbus.service`).\n- An edge could disappear completely: the port chosen on its side had its first step inside\n  another box (two boxes overlap on screen), so the route had nowhere to go and the whole edge was\n  dropped. `pick_port` now skips a side whose exit cell is a box cell, and when a planned route\n  still fails the edge is re-planned once with both ends scanning the border instead of trusting\n  the plan. On `systemd.gtui` this brings back the two edges into `dbus.service` that were\n  invisible (all six of its neighbours now show their edge). The examples suite goes from ~44 s to\n  ~66 s because those edges are now routed instead of being dropped.\n- A cross cell keeps the colour of the shape you can see: the edge drawn first owns both the glyph\n  and the colour, and a later edge (even when its group is the one under the cursor) no longer\n  repaints that one cell in its own colour, which made a long red run look like it was cut by a\n  blue square. Raising an edge (selection / `E`) still recolours it as a whole.\n- An edge whose route cannot be found is no longer half drawn: the fallback used to return a single\n  cell while the caller still painted the port stub, the arrowhead and a one-cell vertical, leaving\n  a floating `^` under the box (visible on `basic.target` in `systemd.gtui`). A failed route now\n  draws nothing at all -- no stroke, no port, no arrowhead.\n- The route cache keyed documents by geometry only, so two documents with the same box rectangles\n  but different text could reuse each other's planned strokes (and their ports). Every document now\n  carries a process-wide id that is part of the key.\n\n"
 }
