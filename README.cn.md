@@ -14,15 +14,15 @@ x install graph-tui
 
 ## 代码洞察
 
-合计: **42,522** 行代码（覆盖前 5 种语言、共 **54** 个文件）。
+合计: **42,838** 行代码（覆盖前 5 种语言、共 **74** 个文件）。
 
 | 语言 | 代码 | 注释 | 空行 | 文件数 |
 |------|-----:|-----:|-----:|------:|
-| Rust | 42,368 | 1,675 | 1,948 | 33 |
+| Rust | 42,684 | 1,681 | 1,987 | 53 |
 | Sh | 101 | 8 | 16 | 1 |
 | Yaml | 32 | 9 | 6 | 1 |
 | Toml | 21 | 1 | 2 | 1 |
-| Markdown | 0 | 2,281 | 448 | 18 |
+| Markdown | 0 | 2,295 | 454 | 18 |
 
 ## 源代码
 
@@ -31,7 +31,7 @@ x install graph-tui
 
 ## 发布
 
-- **最新版本**: `v0.13.0` (2026-11-07)
+- **最新版本**: `v0.13.1` (2026-11-07)
 - **最近提交**: 2026-11-07
 - **Release 含资产**: 10 个
 
@@ -41,33 +41,33 @@ x install graph-tui
 
 ## 累计统计
 
-- **发布数**: 15 · **已合并 PR**: 0 · **开放 PR**: 0 · **已关闭 issue**: 0 · **开放 issue**: 0 · **提交数**: 133
+- **发布数**: 16 · **已合并 PR**: 0 · **开放 PR**: 0 · **已关闭 issue**: 0 · **开放 issue**: 0 · **提交数**: 139
 
 ## 最近活动
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-08 | 15 | 0 | 0 | 0 | 0 | 133 |
-| last60d | 2026-09-08 | 15 | 0 | 0 | 0 | 0 | 133 |
-| 90d | 2026-08-09 | 15 | 0 | 0 | 0 | 0 | 133 |
-| last180d | 2026-05-11 | 15 | 0 | 0 | 0 | 0 | 133 |
-| 360d | 2025-11-12 | 15 | 0 | 0 | 0 | 0 | 133 |
-| last720d | 2024-11-17 | 15 | 0 | 0 | 0 | 0 | 133 |
+| 30d | 2026-10-09 | 16 | 0 | 0 | 0 | 0 | 139 |
+| last60d | 2026-09-09 | 16 | 0 | 0 | 0 | 0 | 139 |
+| 90d | 2026-08-10 | 16 | 0 | 0 | 0 | 0 | 139 |
+| last180d | 2026-05-12 | 16 | 0 | 0 | 0 | 0 | 139 |
+| 360d | 2025-11-13 | 16 | 0 | 0 | 0 | 0 | 139 |
+| last720d | 2024-11-18 | 16 | 0 | 0 | 0 | 0 | 139 |
 
 ## Release 资产
 
 | 资产 | 大小 | 目标平台 |
 |------|-----:|----------|
-| [graph-tui-aarch64-apple-darwin.sha256](https://github.com/mixsoulgithub/graph-tui/releases/download/v0.13.0/graph-tui-aarch64-apple-darwin.sha256) | 104 B | `native/darwin/arm64` |
-| [graph-tui-aarch64-apple-darwin.tar.gz](https://github.com/mixsoulgithub/graph-tui/releases/download/v0.13.0/graph-tui-aarch64-apple-darwin.tar.gz) | 993.4 KiB | `native/darwin/arm64` |
-| [graph-tui-x86_64-apple-darwin.sha256](https://github.com/mixsoulgithub/graph-tui/releases/download/v0.13.0/graph-tui-x86_64-apple-darwin.sha256) | 103 B | `native/darwin/x64` |
-| [graph-tui-x86_64-apple-darwin.tar.gz](https://github.com/mixsoulgithub/graph-tui/releases/download/v0.13.0/graph-tui-x86_64-apple-darwin.tar.gz) | 1.1 MiB | `native/darwin/x64` |
-| [graph-tui-x86_64-pc-windows-msvc.sha256](https://github.com/mixsoulgithub/graph-tui/releases/download/v0.13.0/graph-tui-x86_64-pc-windows-msvc.sha256) | 103 B | `native/win/x64` |
-| [graph-tui-x86_64-pc-windows-msvc.zip](https://github.com/mixsoulgithub/graph-tui/releases/download/v0.13.0/graph-tui-x86_64-pc-windows-msvc.zip) | 1.1 MiB | `native/win/x64` |
-| [graph-tui-x86_64-unknown-linux-gnu.sha256](https://github.com/mixsoulgithub/graph-tui/releases/download/v0.13.0/graph-tui-x86_64-unknown-linux-gnu.sha256) | 108 B | `native/linux/x64/glibc` |
-| [graph-tui-x86_64-unknown-linux-gnu.tar.gz](https://github.com/mixsoulgithub/graph-tui/releases/download/v0.13.0/graph-tui-x86_64-unknown-linux-gnu.tar.gz) | 1.1 MiB | `native/linux/x64/glibc` |
-| [graph-tui-x86_64-unknown-linux-musl.sha256](https://github.com/mixsoulgithub/graph-tui/releases/download/v0.13.0/graph-tui-x86_64-unknown-linux-musl.sha256) | 109 B | `native/linux/x64/musl` |
-| [graph-tui-x86_64-unknown-linux-musl.tar.gz](https://github.com/mixsoulgithub/graph-tui/releases/download/v0.13.0/graph-tui-x86_64-unknown-linux-musl.tar.gz) | 1.2 MiB | `native/linux/x64/musl` |
+| [graph-tui-aarch64-apple-darwin.sha256](https://github.com/mixsoulgithub/graph-tui/releases/download/v0.13.1/graph-tui-aarch64-apple-darwin.sha256) | 104 B | `native/darwin/arm64` |
+| [graph-tui-aarch64-apple-darwin.tar.gz](https://github.com/mixsoulgithub/graph-tui/releases/download/v0.13.1/graph-tui-aarch64-apple-darwin.tar.gz) | 996.0 KiB | `native/darwin/arm64` |
+| [graph-tui-x86_64-apple-darwin.sha256](https://github.com/mixsoulgithub/graph-tui/releases/download/v0.13.1/graph-tui-x86_64-apple-darwin.sha256) | 103 B | `native/darwin/x64` |
+| [graph-tui-x86_64-apple-darwin.tar.gz](https://github.com/mixsoulgithub/graph-tui/releases/download/v0.13.1/graph-tui-x86_64-apple-darwin.tar.gz) | 1.1 MiB | `native/darwin/x64` |
+| [graph-tui-x86_64-pc-windows-msvc.sha256](https://github.com/mixsoulgithub/graph-tui/releases/download/v0.13.1/graph-tui-x86_64-pc-windows-msvc.sha256) | 103 B | `native/win/x64` |
+| [graph-tui-x86_64-pc-windows-msvc.zip](https://github.com/mixsoulgithub/graph-tui/releases/download/v0.13.1/graph-tui-x86_64-pc-windows-msvc.zip) | 1.1 MiB | `native/win/x64` |
+| [graph-tui-x86_64-unknown-linux-gnu.sha256](https://github.com/mixsoulgithub/graph-tui/releases/download/v0.13.1/graph-tui-x86_64-unknown-linux-gnu.sha256) | 108 B | `native/linux/x64/glibc` |
+| [graph-tui-x86_64-unknown-linux-gnu.tar.gz](https://github.com/mixsoulgithub/graph-tui/releases/download/v0.13.1/graph-tui-x86_64-unknown-linux-gnu.tar.gz) | 1.1 MiB | `native/linux/x64/glibc` |
+| [graph-tui-x86_64-unknown-linux-musl.sha256](https://github.com/mixsoulgithub/graph-tui/releases/download/v0.13.1/graph-tui-x86_64-unknown-linux-musl.sha256) | 109 B | `native/linux/x64/musl` |
+| [graph-tui-x86_64-unknown-linux-musl.tar.gz](https://github.com/mixsoulgithub/graph-tui/releases/download/v0.13.1/graph-tui-x86_64-unknown-linux-musl.tar.gz) | 1.2 MiB | `native/linux/x64/musl` |
 
 ## 改进这些数据
 
@@ -78,4 +78,4 @@ graph-tui 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/261107.yml` · 2026-11-07T07:05:01Z._
+_数据快照: `data/card/261108.yml` · 2026-11-08T07:06:57Z._
