@@ -47,12 +47,12 @@ Total: **45,733** lines of code across **77** files in the top 5 languages.
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-20 | 24 | 0 | 0 | 0 | 0 | 194 |
-| last60d | 2026-09-20 | 24 | 0 | 0 | 0 | 0 | 194 |
-| 90d | 2026-08-21 | 24 | 0 | 0 | 0 | 0 | 194 |
-| last180d | 2026-05-23 | 24 | 0 | 0 | 0 | 0 | 194 |
-| 360d | 2025-11-24 | 24 | 0 | 0 | 0 | 0 | 194 |
-| last720d | 2024-11-29 | 24 | 0 | 0 | 0 | 0 | 194 |
+| 30d | 2026-10-21 | 24 | 0 | 0 | 0 | 0 | 194 |
+| last60d | 2026-09-21 | 24 | 0 | 0 | 0 | 0 | 194 |
+| 90d | 2026-08-22 | 24 | 0 | 0 | 0 | 0 | 194 |
+| last180d | 2026-05-24 | 24 | 0 | 0 | 0 | 0 | 194 |
+| 360d | 2025-11-25 | 24 | 0 | 0 | 0 | 0 | 194 |
+| last720d | 2024-11-30 | 24 | 0 | 0 | 0 | 0 | 194 |
 
 ## Release assets
 
@@ -76,4 +76,4 @@ Install metadata for graph-tui lives in the [x-cmd/install](https://github.com/x
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261119.yml` · 2026-11-19T08:36:26Z._
+_Snapshot: `data/card/261120.yml` · 2026-11-20T10:19:55Z._
