@@ -14,15 +14,15 @@ x install graph-tui
 
 ## Code insight
 
-Total: **45,676** lines of code across **70** files in the top 5 languages.
+Total: **45,666** lines of code across **70** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
 | Rust | 45,238 | 1,863 | 2,122 | 56 |
-| Python | 316 | 10 | 44 | 1 |
+| Python | 306 | 11 | 42 | 1 |
 | Sh | 101 | 8 | 16 | 1 |
 | Toml | 21 | 1 | 2 | 1 |
-| Markdown | 0 | 2,115 | 392 | 11 |
+| Markdown | 0 | 2,116 | 392 | 11 |
 
 ## Source
 
@@ -32,27 +32,27 @@ Total: **45,676** lines of code across **70** files in the top 5 languages.
 ## Release
 
 - **Latest**: `v0.19.0` (2026-11-21)
-- **Last commit**: 2026-11-21
+- **Last commit**: 2026-11-22
 - **Assets in release**: 10
 
 ## Popularity
 
-- **Stars**: 23 · **Forks**: 0 · **Open issues**: 0 · **Contributors**: 1
+- **Stars**: 24 · **Forks**: 0 · **Open issues**: 0 · **Contributors**: 1
 
 ## Totals (cumulative)
 
-- **Releases**: 25 · **Merged PRs**: 0 · **Open PRs**: 0 · **Closed issues**: 0 · **Open issues**: 0 · **Commits**: 197
+- **Releases**: 25 · **Merged PRs**: 0 · **Open PRs**: 0 · **Closed issues**: 0 · **Open issues**: 0 · **Commits**: 198
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-23 | 25 | 0 | 0 | 0 | 0 | 197 |
-| last60d | 2026-09-23 | 25 | 0 | 0 | 0 | 0 | 197 |
-| 90d | 2026-08-24 | 25 | 0 | 0 | 0 | 0 | 197 |
-| last180d | 2026-05-26 | 25 | 0 | 0 | 0 | 0 | 197 |
-| 360d | 2025-11-27 | 25 | 0 | 0 | 0 | 0 | 197 |
-| last720d | 2024-12-02 | 25 | 0 | 0 | 0 | 0 | 197 |
+| 30d | 2026-10-24 | 25 | 0 | 0 | 0 | 0 | 0 |
+| last60d | 2026-09-24 | 25 | 0 | 0 | 0 | 0 | 0 |
+| 90d | 2026-08-25 | 25 | 0 | 0 | 0 | 0 | 0 |
+| last180d | 2026-05-27 | 25 | 0 | 0 | 0 | 0 | 0 |
+| 360d | 2025-11-28 | 25 | 0 | 0 | 0 | 0 | 0 |
+| last720d | 2024-12-03 | 25 | 0 | 0 | 0 | 0 | 198 |
 
 ## Release assets
 
@@ -78,4 +78,4 @@ Install metadata for graph-tui lives in the [x-cmd/install](https://github.com/x
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261122.yml` · 2026-11-22T07:45:16Z._
+_Snapshot: `data/card/261123.yml` · 2026-11-23T08:18:00Z._
