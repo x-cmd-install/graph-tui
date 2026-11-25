@@ -14,15 +14,15 @@ x install graph-tui
 
 ## Code insight
 
-Total: **45,666** lines of code across **70** files in the top 5 languages.
+Total: **43,040** lines of code across **68** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Rust | 45,238 | 1,863 | 2,122 | 56 |
-| Python | 306 | 11 | 42 | 1 |
-| Sh | 101 | 8 | 16 | 1 |
-| Toml | 21 | 1 | 2 | 1 |
-| Markdown | 0 | 2,116 | 392 | 11 |
+| Rust | 42,611 | 2,283 | 2,051 | 54 |
+| Python | 307 | 13 | 42 | 1 |
+| Sh | 101 | 9 | 16 | 1 |
+| Toml | 21 | 2 | 2 | 1 |
+| Markdown | 0 | 2,007 | 412 | 11 |
 
 ## Source
 
@@ -31,43 +31,43 @@ Total: **45,666** lines of code across **70** files in the top 5 languages.
 
 ## Release
 
-- **Latest**: `v0.19.0` (2026-11-21)
-- **Last commit**: 2026-11-22
+- **Latest**: `v0.21.0` (2026-11-24)
+- **Last commit**: 2026-11-24
 - **Assets in release**: 10
 
 ## Popularity
 
-- **Stars**: 24 · **Forks**: 0 · **Open issues**: 0 · **Contributors**: 1
+- **Stars**: 27 · **Forks**: 0 · **Open issues**: 0 · **Contributors**: 1
 
 ## Totals (cumulative)
 
-- **Releases**: 25 · **Merged PRs**: 0 · **Open PRs**: 0 · **Closed issues**: 0 · **Open issues**: 0 · **Commits**: 198
+- **Releases**: 27 · **Merged PRs**: 0 · **Open PRs**: 0 · **Closed issues**: 0 · **Open issues**: 0 · **Commits**: 219
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-25 | 25 | 0 | 0 | 0 | 0 | 198 |
-| last60d | 2026-09-25 | 25 | 0 | 0 | 0 | 0 | 198 |
-| 90d | 2026-08-26 | 25 | 0 | 0 | 0 | 0 | 198 |
-| last180d | 2026-05-28 | 25 | 0 | 0 | 0 | 0 | 198 |
-| 360d | 2025-11-29 | 25 | 0 | 0 | 0 | 0 | 198 |
-| last720d | 2024-12-04 | 25 | 0 | 0 | 0 | 0 | 198 |
+| 30d | 2026-10-26 | 27 | 0 | 0 | 0 | 0 | 219 |
+| last60d | 2026-09-26 | 27 | 0 | 0 | 0 | 0 | 219 |
+| 90d | 2026-08-27 | 27 | 0 | 0 | 0 | 0 | 219 |
+| last180d | 2026-05-29 | 27 | 0 | 0 | 0 | 0 | 219 |
+| 360d | 2025-11-30 | 27 | 0 | 0 | 0 | 0 | 219 |
+| last720d | 2024-12-05 | 27 | 0 | 0 | 0 | 0 | 219 |
 
 ## Release assets
 
 | Asset | Size | Target |
 |-------|-----:|--------|
-| [graph-tui-aarch64-apple-darwin.sha256](https://github.com/mixsoulgithub/graph-tui/releases/download/v0.19.0/graph-tui-aarch64-apple-darwin.sha256) | 104 B | `native/darwin/arm64` |
-| [graph-tui-aarch64-apple-darwin.tar.gz](https://github.com/mixsoulgithub/graph-tui/releases/download/v0.19.0/graph-tui-aarch64-apple-darwin.tar.gz) | 1.0 MiB | `native/darwin/arm64` |
-| [graph-tui-x86_64-apple-darwin.sha256](https://github.com/mixsoulgithub/graph-tui/releases/download/v0.19.0/graph-tui-x86_64-apple-darwin.sha256) | 103 B | `native/darwin/x64` |
-| [graph-tui-x86_64-apple-darwin.tar.gz](https://github.com/mixsoulgithub/graph-tui/releases/download/v0.19.0/graph-tui-x86_64-apple-darwin.tar.gz) | 1.1 MiB | `native/darwin/x64` |
-| [graph-tui-x86_64-pc-windows-msvc.sha256](https://github.com/mixsoulgithub/graph-tui/releases/download/v0.19.0/graph-tui-x86_64-pc-windows-msvc.sha256) | 103 B | `native/win/x64` |
-| [graph-tui-x86_64-pc-windows-msvc.zip](https://github.com/mixsoulgithub/graph-tui/releases/download/v0.19.0/graph-tui-x86_64-pc-windows-msvc.zip) | 1.1 MiB | `native/win/x64` |
-| [graph-tui-x86_64-unknown-linux-gnu.sha256](https://github.com/mixsoulgithub/graph-tui/releases/download/v0.19.0/graph-tui-x86_64-unknown-linux-gnu.sha256) | 108 B | `native/linux/x64/glibc` |
-| [graph-tui-x86_64-unknown-linux-gnu.tar.gz](https://github.com/mixsoulgithub/graph-tui/releases/download/v0.19.0/graph-tui-x86_64-unknown-linux-gnu.tar.gz) | 1.1 MiB | `native/linux/x64/glibc` |
-| [graph-tui-x86_64-unknown-linux-musl.sha256](https://github.com/mixsoulgithub/graph-tui/releases/download/v0.19.0/graph-tui-x86_64-unknown-linux-musl.sha256) | 109 B | `native/linux/x64/musl` |
-| [graph-tui-x86_64-unknown-linux-musl.tar.gz](https://github.com/mixsoulgithub/graph-tui/releases/download/v0.19.0/graph-tui-x86_64-unknown-linux-musl.tar.gz) | 1.2 MiB | `native/linux/x64/musl` |
+| [graph-tui-aarch64-apple-darwin.sha256](https://github.com/mixsoulgithub/graph-tui/releases/download/v0.21.0/graph-tui-aarch64-apple-darwin.sha256) | 104 B | `native/darwin/arm64` |
+| [graph-tui-aarch64-apple-darwin.tar.gz](https://github.com/mixsoulgithub/graph-tui/releases/download/v0.21.0/graph-tui-aarch64-apple-darwin.tar.gz) | 958.4 KiB | `native/darwin/arm64` |
+| [graph-tui-x86_64-apple-darwin.sha256](https://github.com/mixsoulgithub/graph-tui/releases/download/v0.21.0/graph-tui-x86_64-apple-darwin.sha256) | 103 B | `native/darwin/x64` |
+| [graph-tui-x86_64-apple-darwin.tar.gz](https://github.com/mixsoulgithub/graph-tui/releases/download/v0.21.0/graph-tui-x86_64-apple-darwin.tar.gz) | 1.0 MiB | `native/darwin/x64` |
+| [graph-tui-x86_64-pc-windows-msvc.sha256](https://github.com/mixsoulgithub/graph-tui/releases/download/v0.21.0/graph-tui-x86_64-pc-windows-msvc.sha256) | 103 B | `native/win/x64` |
+| [graph-tui-x86_64-pc-windows-msvc.zip](https://github.com/mixsoulgithub/graph-tui/releases/download/v0.21.0/graph-tui-x86_64-pc-windows-msvc.zip) | 1.0 MiB | `native/win/x64` |
+| [graph-tui-x86_64-unknown-linux-gnu.sha256](https://github.com/mixsoulgithub/graph-tui/releases/download/v0.21.0/graph-tui-x86_64-unknown-linux-gnu.sha256) | 108 B | `native/linux/x64/glibc` |
+| [graph-tui-x86_64-unknown-linux-gnu.tar.gz](https://github.com/mixsoulgithub/graph-tui/releases/download/v0.21.0/graph-tui-x86_64-unknown-linux-gnu.tar.gz) | 1.1 MiB | `native/linux/x64/glibc` |
+| [graph-tui-x86_64-unknown-linux-musl.sha256](https://github.com/mixsoulgithub/graph-tui/releases/download/v0.21.0/graph-tui-x86_64-unknown-linux-musl.sha256) | 109 B | `native/linux/x64/musl` |
+| [graph-tui-x86_64-unknown-linux-musl.tar.gz](https://github.com/mixsoulgithub/graph-tui/releases/download/v0.21.0/graph-tui-x86_64-unknown-linux-musl.tar.gz) | 1.1 MiB | `native/linux/x64/musl` |
 
 ## Improve this data
 
@@ -78,4 +78,4 @@ Install metadata for graph-tui lives in the [x-cmd/install](https://github.com/x
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261124.yml` · 2026-11-24T11:43:30Z._
+_Snapshot: `data/card/261125.yml` · 2026-11-25T10:19:40Z._
