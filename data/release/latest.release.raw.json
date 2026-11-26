@@ -319,7 +319,7 @@
       "state": "uploaded",
       "size": 1107856,
       "digest": "sha256:af04adc9646d49070eab593cbd1b8508b681ad4a2add2d9dcc8ffc7deeb1c736",
-      "download_count": 1,
+      "download_count": 5,
       "created_at": "2026-11-24T13:18:30Z",
       "updated_at": "2026-11-24T13:18:31Z",
       "browser_download_url": "https://github.com/mixsoulgithub/graph-tui/releases/download/v0.21.0/graph-tui-x86_64-unknown-linux-gnu.tar.gz"
@@ -355,7 +355,7 @@
       "state": "uploaded",
       "size": 109,
       "digest": "sha256:7605215b230ea1c5ed82a89c500ffb2d5633a9b6f6eca778d9e95caf63e394e8",
-      "download_count": 6,
+      "download_count": 8,
       "created_at": "2026-11-24T13:20:15Z",
       "updated_at": "2026-11-24T13:20:16Z",
       "browser_download_url": "https://github.com/mixsoulgithub/graph-tui/releases/download/v0.21.0/graph-tui-x86_64-unknown-linux-musl.sha256"
@@ -391,7 +391,7 @@
       "state": "uploaded",
       "size": 1163228,
       "digest": "sha256:e9331ad0885d6e36d550310ccceb533813ae04cb55269a5da9f55731cf779d67",
-      "download_count": 6,
+      "download_count": 8,
       "created_at": "2026-11-24T13:20:15Z",
       "updated_at": "2026-11-24T13:20:15Z",
       "browser_download_url": "https://github.com/mixsoulgithub/graph-tui/releases/download/v0.21.0/graph-tui-x86_64-unknown-linux-musl.tar.gz"
